@@ -1,0 +1,3424 @@
+===== Danh sách các Export Functions =====
+Function #1:
+  Name      : NtAccessCheck
+  Address   : 0x7ff8cce41af0
+  Trampoline: 0x7ff8cce41b02
+  Hooked    : false
+  SSN       : 0
+------------------------------------------
+Function #2:
+  Name      : NtWorkerFactoryWorkerReady
+  Address   : 0x7ff8cce41b10
+  Trampoline: 0x7ff8cce41b22
+  Hooked    : false
+  SSN       : 1
+------------------------------------------
+Function #3:
+  Name      : NtAcceptConnectPort
+  Address   : 0x7ff8cce41b30
+  Trampoline: 0x7ff8cce41b42
+  Hooked    : false
+  SSN       : 2
+------------------------------------------
+Function #4:
+  Name      : NtMapUserPhysicalPagesScatter
+  Address   : 0x7ff8cce41b50
+  Trampoline: 0x7ff8cce41b62
+  Hooked    : false
+  SSN       : 3
+------------------------------------------
+Function #5:
+  Name      : NtWaitForSingleObject
+  Address   : 0x7ff8cce41b70
+  Trampoline: 0x7ff8cce41b82
+  Hooked    : false
+  SSN       : 4
+------------------------------------------
+Function #6:
+  Name      : NtCallbackReturn
+  Address   : 0x7ff8cce41b90
+  Trampoline: 0x7ff8cce41ba2
+  Hooked    : false
+  SSN       : 5
+------------------------------------------
+Function #7:
+  Name      : NtReadFile
+  Address   : 0x7ff8cce41bb0
+  Trampoline: 0x7ff8cce41bc2
+  Hooked    : false
+  SSN       : 6
+------------------------------------------
+Function #8:
+  Name      : NtDeviceIoControlFile
+  Address   : 0x7ff8cce41bd0
+  Trampoline: 0x7ff8cce41be2
+  Hooked    : false
+  SSN       : 7
+------------------------------------------
+Function #9:
+  Name      : NtWriteFile
+  Address   : 0x7ff8cce41bf0
+  Trampoline: 0x7ff8cce41c02
+  Hooked    : false
+  SSN       : 8
+------------------------------------------
+Function #10:
+  Name      : NtRemoveIoCompletion
+  Address   : 0x7ff8cce41c10
+  Trampoline: 0x7ff8cce41c22
+  Hooked    : false
+  SSN       : 9
+------------------------------------------
+Function #11:
+  Name      : NtReleaseSemaphore
+  Address   : 0x7ff8cce41c30
+  Trampoline: 0x7ff8cce41c42
+  Hooked    : false
+  SSN       : 10
+------------------------------------------
+Function #12:
+  Name      : NtReplyWaitReceivePort
+  Address   : 0x7ff8cce41c50
+  Trampoline: 0x7ff8cce41c62
+  Hooked    : false
+  SSN       : 11
+------------------------------------------
+Function #13:
+  Name      : NtReplyPort
+  Address   : 0x7ff8cce41c70
+  Trampoline: 0x7ff8cce41c82
+  Hooked    : false
+  SSN       : 12
+------------------------------------------
+Function #14:
+  Name      : NtSetInformationThread
+  Address   : 0x7ff8cce41c90
+  Trampoline: 0x7ff8cce41ca2
+  Hooked    : false
+  SSN       : 13
+------------------------------------------
+Function #15:
+  Name      : NtSetEvent
+  Address   : 0x7ff8cce41cb0
+  Trampoline: 0x7ff8cce41cc2
+  Hooked    : false
+  SSN       : 14
+------------------------------------------
+Function #16:
+  Name      : NtClose
+  Address   : 0x7ff8cce41cd0
+  Trampoline: 0x7ff8cce41ce2
+  Hooked    : false
+  SSN       : 15
+------------------------------------------
+Function #17:
+  Name      : NtQueryObject
+  Address   : 0x7ff8cce41cf0
+  Trampoline: 0x7ff8cce41d02
+  Hooked    : false
+  SSN       : 16
+------------------------------------------
+Function #18:
+  Name      : NtQueryInformationFile
+  Address   : 0x7ff8cce41d10
+  Trampoline: 0x7ff8cce41d22
+  Hooked    : false
+  SSN       : 17
+------------------------------------------
+Function #19:
+  Name      : NtOpenKey
+  Address   : 0x7ff8cce41d30
+  Trampoline: 0x7ff8cce41d42
+  Hooked    : false
+  SSN       : 18
+------------------------------------------
+Function #20:
+  Name      : NtEnumerateValueKey
+  Address   : 0x7ff8cce41d50
+  Trampoline: 0x7ff8cce41d62
+  Hooked    : false
+  SSN       : 19
+------------------------------------------
+Function #21:
+  Name      : NtFindAtom
+  Address   : 0x7ff8cce41d70
+  Trampoline: 0x7ff8cce41d82
+  Hooked    : false
+  SSN       : 20
+------------------------------------------
+Function #22:
+  Name      : NtQueryDefaultLocale
+  Address   : 0x7ff8cce41d90
+  Trampoline: 0x7ff8cce41da2
+  Hooked    : false
+  SSN       : 21
+------------------------------------------
+Function #23:
+  Name      : NtQueryKey
+  Address   : 0x7ff8cce41db0
+  Trampoline: 0x7ff8cce41dc2
+  Hooked    : false
+  SSN       : 22
+------------------------------------------
+Function #24:
+  Name      : NtQueryValueKey
+  Address   : 0x7ff8cce41dd0
+  Trampoline: 0x7ff8cce41de2
+  Hooked    : false
+  SSN       : 23
+------------------------------------------
+Function #25:
+  Name      : NtAllocateVirtualMemory
+  Address   : 0x7ff8cce41df0
+  Trampoline: 0x7ff8cce41e02
+  Hooked    : false
+  SSN       : 24
+------------------------------------------
+Function #26:
+  Name      : NtQueryInformationProcess
+  Address   : 0x7ff8cce41e10
+  Trampoline: 0x7ff8cce41e22
+  Hooked    : false
+  SSN       : 25
+------------------------------------------
+Function #27:
+  Name      : NtWaitForMultipleObjects32
+  Address   : 0x7ff8cce41e30
+  Trampoline: 0x7ff8cce41e42
+  Hooked    : false
+  SSN       : 26
+------------------------------------------
+Function #28:
+  Name      : NtWriteFileGather
+  Address   : 0x7ff8cce41e50
+  Trampoline: 0x7ff8cce41e62
+  Hooked    : false
+  SSN       : 27
+------------------------------------------
+Function #29:
+  Name      : NtSetInformationProcess
+  Address   : 0x7ff8cce41e70
+  Trampoline: 0x7ff8cce41e82
+  Hooked    : false
+  SSN       : 28
+------------------------------------------
+Function #30:
+  Name      : NtCreateKey
+  Address   : 0x7ff8cce41e90
+  Trampoline: 0x7ff8cce41ea2
+  Hooked    : false
+  SSN       : 29
+------------------------------------------
+Function #31:
+  Name      : NtFreeVirtualMemory
+  Address   : 0x7ff8cce41eb0
+  Trampoline: 0x7ff8cce41ec2
+  Hooked    : false
+  SSN       : 30
+------------------------------------------
+Function #32:
+  Name      : NtImpersonateClientOfPort
+  Address   : 0x7ff8cce41ed0
+  Trampoline: 0x7ff8cce41ee2
+  Hooked    : false
+  SSN       : 31
+------------------------------------------
+Function #33:
+  Name      : NtReleaseMutant
+  Address   : 0x7ff8cce41ef0
+  Trampoline: 0x7ff8cce41f02
+  Hooked    : false
+  SSN       : 32
+------------------------------------------
+Function #34:
+  Name      : NtQueryInformationToken
+  Address   : 0x7ff8cce41f10
+  Trampoline: 0x7ff8cce41f22
+  Hooked    : false
+  SSN       : 33
+------------------------------------------
+Function #35:
+  Name      : NtRequestWaitReplyPort
+  Address   : 0x7ff8cce41f30
+  Trampoline: 0x7ff8cce41f42
+  Hooked    : false
+  SSN       : 34
+------------------------------------------
+Function #36:
+  Name      : NtQueryVirtualMemory
+  Address   : 0x7ff8cce41f50
+  Trampoline: 0x7ff8cce41f62
+  Hooked    : false
+  SSN       : 35
+------------------------------------------
+Function #37:
+  Name      : NtOpenThreadToken
+  Address   : 0x7ff8cce41f70
+  Trampoline: 0x7ff8cce41f82
+  Hooked    : false
+  SSN       : 36
+------------------------------------------
+Function #38:
+  Name      : NtQueryInformationThread
+  Address   : 0x7ff8cce41f90
+  Trampoline: 0x7ff8cce41fa2
+  Hooked    : false
+  SSN       : 37
+------------------------------------------
+Function #39:
+  Name      : NtOpenProcess
+  Address   : 0x7ff8cce41fb0
+  Trampoline: 0x7ff8cce41fc2
+  Hooked    : false
+  SSN       : 38
+------------------------------------------
+Function #40:
+  Name      : NtSetInformationFile
+  Address   : 0x7ff8cce41fd0
+  Trampoline: 0x7ff8cce41fe2
+  Hooked    : false
+  SSN       : 39
+------------------------------------------
+Function #41:
+  Name      : NtMapViewOfSection
+  Address   : 0x7ff8cce41ff0
+  Trampoline: 0x7ff8cce42002
+  Hooked    : false
+  SSN       : 40
+------------------------------------------
+Function #42:
+  Name      : NtAccessCheckAndAuditAlarm
+  Address   : 0x7ff8cce42010
+  Trampoline: 0x7ff8cce42022
+  Hooked    : false
+  SSN       : 41
+------------------------------------------
+Function #43:
+  Name      : NtUnmapViewOfSection
+  Address   : 0x7ff8cce42030
+  Trampoline: 0x7ff8cce42042
+  Hooked    : false
+  SSN       : 42
+------------------------------------------
+Function #44:
+  Name      : NtReplyWaitReceivePortEx
+  Address   : 0x7ff8cce42050
+  Trampoline: 0x7ff8cce42062
+  Hooked    : false
+  SSN       : 43
+------------------------------------------
+Function #45:
+  Name      : NtTerminateProcess
+  Address   : 0x7ff8cce42070
+  Trampoline: 0x7ff8cce42082
+  Hooked    : false
+  SSN       : 44
+------------------------------------------
+Function #46:
+  Name      : NtSetEventBoostPriority
+  Address   : 0x7ff8cce42090
+  Trampoline: 0x7ff8cce420a2
+  Hooked    : false
+  SSN       : 45
+------------------------------------------
+Function #47:
+  Name      : NtReadFileScatter
+  Address   : 0x7ff8cce420b0
+  Trampoline: 0x7ff8cce420c2
+  Hooked    : false
+  SSN       : 46
+------------------------------------------
+Function #48:
+  Name      : NtOpenThreadTokenEx
+  Address   : 0x7ff8cce420d0
+  Trampoline: 0x7ff8cce420e2
+  Hooked    : false
+  SSN       : 47
+------------------------------------------
+Function #49:
+  Name      : NtOpenProcessTokenEx
+  Address   : 0x7ff8cce420f0
+  Trampoline: 0x7ff8cce42102
+  Hooked    : false
+  SSN       : 48
+------------------------------------------
+Function #50:
+  Name      : NtQueryPerformanceCounter
+  Address   : 0x7ff8cce42110
+  Trampoline: 0x7ff8cce42122
+  Hooked    : false
+  SSN       : 49
+------------------------------------------
+Function #51:
+  Name      : NtEnumerateKey
+  Address   : 0x7ff8cce42130
+  Trampoline: 0x7ff8cce42142
+  Hooked    : false
+  SSN       : 50
+------------------------------------------
+Function #52:
+  Name      : NtOpenFile
+  Address   : 0x7ff8cce42150
+  Trampoline: 0x7ff8cce42162
+  Hooked    : false
+  SSN       : 51
+------------------------------------------
+Function #53:
+  Name      : NtDelayExecution
+  Address   : 0x7ff8cce42170
+  Trampoline: 0x7ff8cce42182
+  Hooked    : false
+  SSN       : 52
+------------------------------------------
+Function #54:
+  Name      : NtQueryDirectoryFile
+  Address   : 0x7ff8cce42190
+  Trampoline: 0x7ff8cce421a2
+  Hooked    : false
+  SSN       : 53
+------------------------------------------
+Function #55:
+  Name      : NtQuerySystemInformation
+  Address   : 0x7ff8cce421b0
+  Trampoline: 0x7ff8cce421c2
+  Hooked    : false
+  SSN       : 54
+------------------------------------------
+Function #56:
+  Name      : NtOpenSection
+  Address   : 0x7ff8cce421d0
+  Trampoline: 0x7ff8cce421e2
+  Hooked    : false
+  SSN       : 55
+------------------------------------------
+Function #57:
+  Name      : NtQueryTimer
+  Address   : 0x7ff8cce421f0
+  Trampoline: 0x7ff8cce42202
+  Hooked    : false
+  SSN       : 56
+------------------------------------------
+Function #58:
+  Name      : NtFsControlFile
+  Address   : 0x7ff8cce42210
+  Trampoline: 0x7ff8cce42222
+  Hooked    : false
+  SSN       : 57
+------------------------------------------
+Function #59:
+  Name      : NtWriteVirtualMemory
+  Address   : 0x7ff8cce42230
+  Trampoline: 0x7ff8cce42242
+  Hooked    : false
+  SSN       : 58
+------------------------------------------
+Function #60:
+  Name      : NtCloseObjectAuditAlarm
+  Address   : 0x7ff8cce42250
+  Trampoline: 0x7ff8cce42262
+  Hooked    : false
+  SSN       : 59
+------------------------------------------
+Function #61:
+  Name      : NtDuplicateObject
+  Address   : 0x7ff8cce42270
+  Trampoline: 0x7ff8cce42282
+  Hooked    : false
+  SSN       : 60
+------------------------------------------
+Function #62:
+  Name      : NtQueryAttributesFile
+  Address   : 0x7ff8cce42290
+  Trampoline: 0x7ff8cce422a2
+  Hooked    : false
+  SSN       : 61
+------------------------------------------
+Function #63:
+  Name      : NtClearEvent
+  Address   : 0x7ff8cce422b0
+  Trampoline: 0x7ff8cce422c2
+  Hooked    : false
+  SSN       : 62
+------------------------------------------
+Function #64:
+  Name      : NtReadVirtualMemory
+  Address   : 0x7ff8cce422d0
+  Trampoline: 0x7ff8cce422e2
+  Hooked    : false
+  SSN       : 63
+------------------------------------------
+Function #65:
+  Name      : NtOpenEvent
+  Address   : 0x7ff8cce422f0
+  Trampoline: 0x7ff8cce42302
+  Hooked    : false
+  SSN       : 64
+------------------------------------------
+Function #66:
+  Name      : NtAdjustPrivilegesToken
+  Address   : 0x7ff8cce42310
+  Trampoline: 0x7ff8cce42322
+  Hooked    : false
+  SSN       : 65
+------------------------------------------
+Function #67:
+  Name      : NtDuplicateToken
+  Address   : 0x7ff8cce42330
+  Trampoline: 0x7ff8cce42342
+  Hooked    : false
+  SSN       : 66
+------------------------------------------
+Function #68:
+  Name      : NtContinue
+  Address   : 0x7ff8cce42350
+  Trampoline: 0x7ff8cce42362
+  Hooked    : false
+  SSN       : 67
+------------------------------------------
+Function #69:
+  Name      : NtQueryDefaultUILanguage
+  Address   : 0x7ff8cce42370
+  Trampoline: 0x7ff8cce42382
+  Hooked    : false
+  SSN       : 68
+------------------------------------------
+Function #70:
+  Name      : NtQueueApcThread
+  Address   : 0x7ff8cce42390
+  Trampoline: 0x7ff8cce423a2
+  Hooked    : false
+  SSN       : 69
+------------------------------------------
+Function #71:
+  Name      : NtYieldExecution
+  Address   : 0x7ff8cce423b0
+  Trampoline: 0x7ff8cce423c2
+  Hooked    : false
+  SSN       : 70
+------------------------------------------
+Function #72:
+  Name      : NtAddAtom
+  Address   : 0x7ff8cce423d0
+  Trampoline: 0x7ff8cce423e2
+  Hooked    : false
+  SSN       : 71
+------------------------------------------
+Function #73:
+  Name      : NtCreateEvent
+  Address   : 0x7ff8cce423f0
+  Trampoline: 0x7ff8cce42402
+  Hooked    : false
+  SSN       : 72
+------------------------------------------
+Function #74:
+  Name      : NtQueryVolumeInformationFile
+  Address   : 0x7ff8cce42410
+  Trampoline: 0x7ff8cce42422
+  Hooked    : false
+  SSN       : 73
+------------------------------------------
+Function #75:
+  Name      : NtCreateSection
+  Address   : 0x7ff8cce42430
+  Trampoline: 0x7ff8cce42442
+  Hooked    : false
+  SSN       : 74
+------------------------------------------
+Function #76:
+  Name      : NtFlushBuffersFile
+  Address   : 0x7ff8cce42450
+  Trampoline: 0x7ff8cce42462
+  Hooked    : false
+  SSN       : 75
+------------------------------------------
+Function #77:
+  Name      : NtApphelpCacheControl
+  Address   : 0x7ff8cce42470
+  Trampoline: 0x7ff8cce42482
+  Hooked    : false
+  SSN       : 76
+------------------------------------------
+Function #78:
+  Name      : NtCreateProcessEx
+  Address   : 0x7ff8cce42490
+  Trampoline: 0x7ff8cce424a2
+  Hooked    : false
+  SSN       : 77
+------------------------------------------
+Function #79:
+  Name      : NtCreateThread
+  Address   : 0x7ff8cce424b0
+  Trampoline: 0x7ff8cce424c2
+  Hooked    : false
+  SSN       : 78
+------------------------------------------
+Function #80:
+  Name      : NtIsProcessInJob
+  Address   : 0x7ff8cce424d0
+  Trampoline: 0x7ff8cce424e2
+  Hooked    : false
+  SSN       : 79
+------------------------------------------
+Function #81:
+  Name      : NtProtectVirtualMemory
+  Address   : 0x7ff8cce424f0
+  Trampoline: 0x7ff8cce42502
+  Hooked    : false
+  SSN       : 80
+------------------------------------------
+Function #82:
+  Name      : NtQuerySection
+  Address   : 0x7ff8cce42510
+  Trampoline: 0x7ff8cce42522
+  Hooked    : false
+  SSN       : 81
+------------------------------------------
+Function #83:
+  Name      : NtResumeThread
+  Address   : 0x7ff8cce42530
+  Trampoline: 0x7ff8cce42542
+  Hooked    : false
+  SSN       : 82
+------------------------------------------
+Function #84:
+  Name      : NtTerminateThread
+  Address   : 0x7ff8cce42550
+  Trampoline: 0x7ff8cce42562
+  Hooked    : false
+  SSN       : 83
+------------------------------------------
+Function #85:
+  Name      : NtReadRequestData
+  Address   : 0x7ff8cce42570
+  Trampoline: 0x7ff8cce42582
+  Hooked    : false
+  SSN       : 84
+------------------------------------------
+Function #86:
+  Name      : NtCreateFile
+  Address   : 0x7ff8cce42590
+  Trampoline: 0x7ff8cce425a2
+  Hooked    : false
+  SSN       : 85
+------------------------------------------
+Function #87:
+  Name      : NtQueryEvent
+  Address   : 0x7ff8cce425b0
+  Trampoline: 0x7ff8cce425c2
+  Hooked    : false
+  SSN       : 86
+------------------------------------------
+Function #88:
+  Name      : NtWriteRequestData
+  Address   : 0x7ff8cce425d0
+  Trampoline: 0x7ff8cce425e2
+  Hooked    : false
+  SSN       : 87
+------------------------------------------
+Function #89:
+  Name      : NtOpenDirectoryObject
+  Address   : 0x7ff8cce425f0
+  Trampoline: 0x7ff8cce42602
+  Hooked    : false
+  SSN       : 88
+------------------------------------------
+Function #90:
+  Name      : NtAccessCheckByTypeAndAuditAlarm
+  Address   : 0x7ff8cce42610
+  Trampoline: 0x7ff8cce42622
+  Hooked    : false
+  SSN       : 89
+------------------------------------------
+Function #91:
+  Name      : NtQuerySystemTime
+  Address   : 0x7ff8cce42630
+  Trampoline: 0x7ff8cce42652
+  Hooked    : true
+  SSN       : 255
+------------------------------------------
+Function #92:
+  Name      : NtWaitForMultipleObjects
+  Address   : 0x7ff8cce42640
+  Trampoline: 0x7ff8cce42652
+  Hooked    : false
+  SSN       : 91
+------------------------------------------
+Function #93:
+  Name      : NtSetInformationObject
+  Address   : 0x7ff8cce42660
+  Trampoline: 0x7ff8cce42672
+  Hooked    : false
+  SSN       : 92
+------------------------------------------
+Function #94:
+  Name      : NtCancelIoFile
+  Address   : 0x7ff8cce42680
+  Trampoline: 0x7ff8cce42692
+  Hooked    : false
+  SSN       : 93
+------------------------------------------
+Function #95:
+  Name      : NtTraceEvent
+  Address   : 0x7ff8cce426a0
+  Trampoline: 0x7ff8cce426b2
+  Hooked    : false
+  SSN       : 94
+------------------------------------------
+Function #96:
+  Name      : NtPowerInformation
+  Address   : 0x7ff8cce426c0
+  Trampoline: 0x7ff8cce426d2
+  Hooked    : false
+  SSN       : 95
+------------------------------------------
+Function #97:
+  Name      : NtSetValueKey
+  Address   : 0x7ff8cce426e0
+  Trampoline: 0x7ff8cce426f2
+  Hooked    : false
+  SSN       : 96
+------------------------------------------
+Function #98:
+  Name      : NtCancelTimer
+  Address   : 0x7ff8cce42700
+  Trampoline: 0x7ff8cce42712
+  Hooked    : false
+  SSN       : 97
+------------------------------------------
+Function #99:
+  Name      : NtSetTimer
+  Address   : 0x7ff8cce42720
+  Trampoline: 0x7ff8cce42732
+  Hooked    : false
+  SSN       : 98
+------------------------------------------
+Function #100:
+  Name      : NtAccessCheckByType
+  Address   : 0x7ff8cce42740
+  Trampoline: 0x7ff8cce42752
+  Hooked    : false
+  SSN       : 99
+------------------------------------------
+Function #101:
+  Name      : NtAccessCheckByTypeResultList
+  Address   : 0x7ff8cce42760
+  Trampoline: 0x7ff8cce42772
+  Hooked    : false
+  SSN       : 100
+------------------------------------------
+Function #102:
+  Name      : NtAccessCheckByTypeResultListAndAuditAlarm
+  Address   : 0x7ff8cce42780
+  Trampoline: 0x7ff8cce42792
+  Hooked    : false
+  SSN       : 101
+------------------------------------------
+Function #103:
+  Name      : NtAccessCheckByTypeResultListAndAuditAlarmByHandle
+  Address   : 0x7ff8cce427a0
+  Trampoline: 0x7ff8cce427b2
+  Hooked    : false
+  SSN       : 102
+------------------------------------------
+Function #104:
+  Name      : NtAcquireCrossVmMutant
+  Address   : 0x7ff8cce427c0
+  Trampoline: 0x7ff8cce427d2
+  Hooked    : false
+  SSN       : 103
+------------------------------------------
+Function #105:
+  Name      : NtAcquireProcessActivityReference
+  Address   : 0x7ff8cce427e0
+  Trampoline: 0x7ff8cce427f2
+  Hooked    : false
+  SSN       : 104
+------------------------------------------
+Function #106:
+  Name      : NtAddAtomEx
+  Address   : 0x7ff8cce42800
+  Trampoline: 0x7ff8cce42812
+  Hooked    : false
+  SSN       : 105
+------------------------------------------
+Function #107:
+  Name      : NtAddBootEntry
+  Address   : 0x7ff8cce42820
+  Trampoline: 0x7ff8cce42832
+  Hooked    : false
+  SSN       : 106
+------------------------------------------
+Function #108:
+  Name      : NtAddDriverEntry
+  Address   : 0x7ff8cce42840
+  Trampoline: 0x7ff8cce42852
+  Hooked    : false
+  SSN       : 107
+------------------------------------------
+Function #109:
+  Name      : NtAdjustGroupsToken
+  Address   : 0x7ff8cce42860
+  Trampoline: 0x7ff8cce42872
+  Hooked    : false
+  SSN       : 108
+------------------------------------------
+Function #110:
+  Name      : NtAdjustTokenClaimsAndDeviceGroups
+  Address   : 0x7ff8cce42880
+  Trampoline: 0x7ff8cce42892
+  Hooked    : false
+  SSN       : 109
+------------------------------------------
+Function #111:
+  Name      : NtAlertMultipleThreadByThreadId
+  Address   : 0x7ff8cce428a0
+  Trampoline: 0x7ff8cce428b2
+  Hooked    : false
+  SSN       : 110
+------------------------------------------
+Function #112:
+  Name      : NtAlertResumeThread
+  Address   : 0x7ff8cce428c0
+  Trampoline: 0x7ff8cce428d2
+  Hooked    : false
+  SSN       : 111
+------------------------------------------
+Function #113:
+  Name      : NtAlertThread
+  Address   : 0x7ff8cce428e0
+  Trampoline: 0x7ff8cce428f2
+  Hooked    : false
+  SSN       : 112
+------------------------------------------
+Function #114:
+  Name      : NtAlertThreadByThreadId
+  Address   : 0x7ff8cce42900
+  Trampoline: 0x7ff8cce42912
+  Hooked    : false
+  SSN       : 113
+------------------------------------------
+Function #115:
+  Name      : NtAlertThreadByThreadIdEx
+  Address   : 0x7ff8cce42920
+  Trampoline: 0x7ff8cce42932
+  Hooked    : false
+  SSN       : 114
+------------------------------------------
+Function #116:
+  Name      : NtAllocateLocallyUniqueId
+  Address   : 0x7ff8cce42940
+  Trampoline: 0x7ff8cce42952
+  Hooked    : false
+  SSN       : 115
+------------------------------------------
+Function #117:
+  Name      : NtAllocateReserveObject
+  Address   : 0x7ff8cce42960
+  Trampoline: 0x7ff8cce42972
+  Hooked    : false
+  SSN       : 116
+------------------------------------------
+Function #118:
+  Name      : NtAllocateUserPhysicalPages
+  Address   : 0x7ff8cce42980
+  Trampoline: 0x7ff8cce42992
+  Hooked    : false
+  SSN       : 117
+------------------------------------------
+Function #119:
+  Name      : NtAllocateUserPhysicalPagesEx
+  Address   : 0x7ff8cce429a0
+  Trampoline: 0x7ff8cce429b2
+  Hooked    : false
+  SSN       : 118
+------------------------------------------
+Function #120:
+  Name      : NtAllocateUuids
+  Address   : 0x7ff8cce429c0
+  Trampoline: 0x7ff8cce429d2
+  Hooked    : false
+  SSN       : 119
+------------------------------------------
+Function #121:
+  Name      : NtAllocateVirtualMemoryEx
+  Address   : 0x7ff8cce429e0
+  Trampoline: 0x7ff8cce429f2
+  Hooked    : false
+  SSN       : 120
+------------------------------------------
+Function #122:
+  Name      : NtAlpcAcceptConnectPort
+  Address   : 0x7ff8cce42a00
+  Trampoline: 0x7ff8cce42a12
+  Hooked    : false
+  SSN       : 121
+------------------------------------------
+Function #123:
+  Name      : NtAlpcCancelMessage
+  Address   : 0x7ff8cce42a20
+  Trampoline: 0x7ff8cce42a32
+  Hooked    : false
+  SSN       : 122
+------------------------------------------
+Function #124:
+  Name      : NtAlpcConnectPort
+  Address   : 0x7ff8cce42a40
+  Trampoline: 0x7ff8cce42a52
+  Hooked    : false
+  SSN       : 123
+------------------------------------------
+Function #125:
+  Name      : NtAlpcConnectPortEx
+  Address   : 0x7ff8cce42a60
+  Trampoline: 0x7ff8cce42a72
+  Hooked    : false
+  SSN       : 124
+------------------------------------------
+Function #126:
+  Name      : NtAlpcCreatePort
+  Address   : 0x7ff8cce42a80
+  Trampoline: 0x7ff8cce42a92
+  Hooked    : false
+  SSN       : 125
+------------------------------------------
+Function #127:
+  Name      : NtAlpcCreatePortSection
+  Address   : 0x7ff8cce42aa0
+  Trampoline: 0x7ff8cce42ab2
+  Hooked    : false
+  SSN       : 126
+------------------------------------------
+Function #128:
+  Name      : NtAlpcCreateResourceReserve
+  Address   : 0x7ff8cce42ac0
+  Trampoline: 0x7ff8cce42ad2
+  Hooked    : false
+  SSN       : 127
+------------------------------------------
+Function #129:
+  Name      : NtAlpcCreateSectionView
+  Address   : 0x7ff8cce42ae0
+  Trampoline: 0x7ff8cce42af2
+  Hooked    : false
+  SSN       : 128
+------------------------------------------
+Function #130:
+  Name      : NtAlpcCreateSecurityContext
+  Address   : 0x7ff8cce42b00
+  Trampoline: 0x7ff8cce42b12
+  Hooked    : false
+  SSN       : 129
+------------------------------------------
+Function #131:
+  Name      : NtAlpcDeletePortSection
+  Address   : 0x7ff8cce42b20
+  Trampoline: 0x7ff8cce42b32
+  Hooked    : false
+  SSN       : 130
+------------------------------------------
+Function #132:
+  Name      : NtAlpcDeleteResourceReserve
+  Address   : 0x7ff8cce42b40
+  Trampoline: 0x7ff8cce42b52
+  Hooked    : false
+  SSN       : 131
+------------------------------------------
+Function #133:
+  Name      : NtAlpcDeleteSectionView
+  Address   : 0x7ff8cce42b60
+  Trampoline: 0x7ff8cce42b72
+  Hooked    : false
+  SSN       : 132
+------------------------------------------
+Function #134:
+  Name      : NtAlpcDeleteSecurityContext
+  Address   : 0x7ff8cce42b80
+  Trampoline: 0x7ff8cce42b92
+  Hooked    : false
+  SSN       : 133
+------------------------------------------
+Function #135:
+  Name      : NtAlpcDisconnectPort
+  Address   : 0x7ff8cce42ba0
+  Trampoline: 0x7ff8cce42bb2
+  Hooked    : false
+  SSN       : 134
+------------------------------------------
+Function #136:
+  Name      : NtAlpcImpersonateClientContainerOfPort
+  Address   : 0x7ff8cce42bc0
+  Trampoline: 0x7ff8cce42bd2
+  Hooked    : false
+  SSN       : 135
+------------------------------------------
+Function #137:
+  Name      : NtAlpcImpersonateClientOfPort
+  Address   : 0x7ff8cce42be0
+  Trampoline: 0x7ff8cce42bf2
+  Hooked    : false
+  SSN       : 136
+------------------------------------------
+Function #138:
+  Name      : NtAlpcOpenSenderProcess
+  Address   : 0x7ff8cce42c00
+  Trampoline: 0x7ff8cce42c12
+  Hooked    : false
+  SSN       : 137
+------------------------------------------
+Function #139:
+  Name      : NtAlpcOpenSenderThread
+  Address   : 0x7ff8cce42c20
+  Trampoline: 0x7ff8cce42c32
+  Hooked    : false
+  SSN       : 138
+------------------------------------------
+Function #140:
+  Name      : NtAlpcQueryInformation
+  Address   : 0x7ff8cce42c40
+  Trampoline: 0x7ff8cce42c52
+  Hooked    : false
+  SSN       : 139
+------------------------------------------
+Function #141:
+  Name      : NtAlpcQueryInformationMessage
+  Address   : 0x7ff8cce42c60
+  Trampoline: 0x7ff8cce42c72
+  Hooked    : false
+  SSN       : 140
+------------------------------------------
+Function #142:
+  Name      : NtAlpcRevokeSecurityContext
+  Address   : 0x7ff8cce42c80
+  Trampoline: 0x7ff8cce42c92
+  Hooked    : false
+  SSN       : 141
+------------------------------------------
+Function #143:
+  Name      : NtAlpcSendWaitReceivePort
+  Address   : 0x7ff8cce42ca0
+  Trampoline: 0x7ff8cce42cb2
+  Hooked    : false
+  SSN       : 142
+------------------------------------------
+Function #144:
+  Name      : NtAlpcSetInformation
+  Address   : 0x7ff8cce42cc0
+  Trampoline: 0x7ff8cce42cd2
+  Hooked    : false
+  SSN       : 143
+------------------------------------------
+Function #145:
+  Name      : NtAreMappedFilesTheSame
+  Address   : 0x7ff8cce42ce0
+  Trampoline: 0x7ff8cce42cf2
+  Hooked    : false
+  SSN       : 144
+------------------------------------------
+Function #146:
+  Name      : NtAssignProcessToJobObject
+  Address   : 0x7ff8cce42d00
+  Trampoline: 0x7ff8cce42d12
+  Hooked    : false
+  SSN       : 145
+------------------------------------------
+Function #147:
+  Name      : NtAssociateWaitCompletionPacket
+  Address   : 0x7ff8cce42d20
+  Trampoline: 0x7ff8cce42d32
+  Hooked    : false
+  SSN       : 146
+------------------------------------------
+Function #148:
+  Name      : NtCallEnclave
+  Address   : 0x7ff8cce42d40
+  Trampoline: 0x7ff8cce42d52
+  Hooked    : false
+  SSN       : 147
+------------------------------------------
+Function #149:
+  Name      : NtCancelIoFileEx
+  Address   : 0x7ff8cce42d60
+  Trampoline: 0x7ff8cce42d72
+  Hooked    : false
+  SSN       : 148
+------------------------------------------
+Function #150:
+  Name      : NtCancelSynchronousIoFile
+  Address   : 0x7ff8cce42d80
+  Trampoline: 0x7ff8cce42d92
+  Hooked    : false
+  SSN       : 149
+------------------------------------------
+Function #151:
+  Name      : NtCancelTimer2
+  Address   : 0x7ff8cce42da0
+  Trampoline: 0x7ff8cce42db2
+  Hooked    : false
+  SSN       : 150
+------------------------------------------
+Function #152:
+  Name      : NtCancelWaitCompletionPacket
+  Address   : 0x7ff8cce42dc0
+  Trampoline: 0x7ff8cce42dd2
+  Hooked    : false
+  SSN       : 151
+------------------------------------------
+Function #153:
+  Name      : NtChangeProcessState
+  Address   : 0x7ff8cce42de0
+  Trampoline: 0x7ff8cce42df2
+  Hooked    : false
+  SSN       : 152
+------------------------------------------
+Function #154:
+  Name      : NtChangeThreadState
+  Address   : 0x7ff8cce42e00
+  Trampoline: 0x7ff8cce42e12
+  Hooked    : false
+  SSN       : 153
+------------------------------------------
+Function #155:
+  Name      : NtCommitComplete
+  Address   : 0x7ff8cce42e20
+  Trampoline: 0x7ff8cce42e32
+  Hooked    : false
+  SSN       : 154
+------------------------------------------
+Function #156:
+  Name      : NtCommitEnlistment
+  Address   : 0x7ff8cce42e40
+  Trampoline: 0x7ff8cce42e52
+  Hooked    : false
+  SSN       : 155
+------------------------------------------
+Function #157:
+  Name      : NtCommitRegistryTransaction
+  Address   : 0x7ff8cce42e60
+  Trampoline: 0x7ff8cce42e72
+  Hooked    : false
+  SSN       : 156
+------------------------------------------
+Function #158:
+  Name      : NtCommitTransaction
+  Address   : 0x7ff8cce42e80
+  Trampoline: 0x7ff8cce42e92
+  Hooked    : false
+  SSN       : 157
+------------------------------------------
+Function #159:
+  Name      : NtCompactKeys
+  Address   : 0x7ff8cce42ea0
+  Trampoline: 0x7ff8cce42eb2
+  Hooked    : false
+  SSN       : 158
+------------------------------------------
+Function #160:
+  Name      : NtCompareObjects
+  Address   : 0x7ff8cce42ec0
+  Trampoline: 0x7ff8cce42ed2
+  Hooked    : false
+  SSN       : 159
+------------------------------------------
+Function #161:
+  Name      : NtCompareSigningLevels
+  Address   : 0x7ff8cce42ee0
+  Trampoline: 0x7ff8cce42ef2
+  Hooked    : false
+  SSN       : 160
+------------------------------------------
+Function #162:
+  Name      : NtCompareTokens
+  Address   : 0x7ff8cce42f00
+  Trampoline: 0x7ff8cce42f12
+  Hooked    : false
+  SSN       : 161
+------------------------------------------
+Function #163:
+  Name      : NtCompleteConnectPort
+  Address   : 0x7ff8cce42f20
+  Trampoline: 0x7ff8cce42f32
+  Hooked    : false
+  SSN       : 162
+------------------------------------------
+Function #164:
+  Name      : NtCompressKey
+  Address   : 0x7ff8cce42f40
+  Trampoline: 0x7ff8cce42f52
+  Hooked    : false
+  SSN       : 163
+------------------------------------------
+Function #165:
+  Name      : NtConnectPort
+  Address   : 0x7ff8cce42f60
+  Trampoline: 0x7ff8cce42f72
+  Hooked    : false
+  SSN       : 164
+------------------------------------------
+Function #166:
+  Name      : NtContinueEx
+  Address   : 0x7ff8cce42f80
+  Trampoline: 0x7ff8cce42f92
+  Hooked    : false
+  SSN       : 165
+------------------------------------------
+Function #167:
+  Name      : NtConvertBetweenAuxiliaryCounterAndPerformanceCounter
+  Address   : 0x7ff8cce42fa0
+  Trampoline: 0x7ff8cce42fb2
+  Hooked    : false
+  SSN       : 166
+------------------------------------------
+Function #168:
+  Name      : NtCopyFileChunk
+  Address   : 0x7ff8cce42fc0
+  Trampoline: 0x7ff8cce42fd2
+  Hooked    : false
+  SSN       : 167
+------------------------------------------
+Function #169:
+  Name      : NtCreateCpuPartition
+  Address   : 0x7ff8cce42fe0
+  Trampoline: 0x7ff8cce42ff2
+  Hooked    : false
+  SSN       : 168
+------------------------------------------
+Function #170:
+  Name      : NtCreateCrossVmEvent
+  Address   : 0x7ff8cce43000
+  Trampoline: 0x7ff8cce43012
+  Hooked    : false
+  SSN       : 169
+------------------------------------------
+Function #171:
+  Name      : NtCreateCrossVmMutant
+  Address   : 0x7ff8cce43020
+  Trampoline: 0x7ff8cce43032
+  Hooked    : false
+  SSN       : 170
+------------------------------------------
+Function #172:
+  Name      : NtCreateDebugObject
+  Address   : 0x7ff8cce43040
+  Trampoline: 0x7ff8cce43052
+  Hooked    : false
+  SSN       : 171
+------------------------------------------
+Function #173:
+  Name      : NtCreateDirectoryObject
+  Address   : 0x7ff8cce43060
+  Trampoline: 0x7ff8cce43072
+  Hooked    : false
+  SSN       : 172
+------------------------------------------
+Function #174:
+  Name      : NtCreateDirectoryObjectEx
+  Address   : 0x7ff8cce43080
+  Trampoline: 0x7ff8cce43092
+  Hooked    : false
+  SSN       : 173
+------------------------------------------
+Function #175:
+  Name      : NtCreateEnclave
+  Address   : 0x7ff8cce430a0
+  Trampoline: 0x7ff8cce430b2
+  Hooked    : false
+  SSN       : 174
+------------------------------------------
+Function #176:
+  Name      : NtCreateEnlistment
+  Address   : 0x7ff8cce430c0
+  Trampoline: 0x7ff8cce430d2
+  Hooked    : false
+  SSN       : 175
+------------------------------------------
+Function #177:
+  Name      : NtCreateEventPair
+  Address   : 0x7ff8cce430e0
+  Trampoline: 0x7ff8cce430f2
+  Hooked    : false
+  SSN       : 176
+------------------------------------------
+Function #178:
+  Name      : NtCreateIRTimer
+  Address   : 0x7ff8cce43100
+  Trampoline: 0x7ff8cce43112
+  Hooked    : false
+  SSN       : 177
+------------------------------------------
+Function #179:
+  Name      : NtCreateIoCompletion
+  Address   : 0x7ff8cce43120
+  Trampoline: 0x7ff8cce43132
+  Hooked    : false
+  SSN       : 178
+------------------------------------------
+Function #180:
+  Name      : NtCreateIoRing
+  Address   : 0x7ff8cce43140
+  Trampoline: 0x7ff8cce43152
+  Hooked    : false
+  SSN       : 179
+------------------------------------------
+Function #181:
+  Name      : NtCreateJobObject
+  Address   : 0x7ff8cce43160
+  Trampoline: 0x7ff8cce43172
+  Hooked    : false
+  SSN       : 180
+------------------------------------------
+Function #182:
+  Name      : NtCreateJobSet
+  Address   : 0x7ff8cce43180
+  Trampoline: 0x7ff8cce43192
+  Hooked    : false
+  SSN       : 181
+------------------------------------------
+Function #183:
+  Name      : NtCreateKeyTransacted
+  Address   : 0x7ff8cce431a0
+  Trampoline: 0x7ff8cce431b2
+  Hooked    : false
+  SSN       : 182
+------------------------------------------
+Function #184:
+  Name      : NtCreateKeyedEvent
+  Address   : 0x7ff8cce431c0
+  Trampoline: 0x7ff8cce431d2
+  Hooked    : false
+  SSN       : 183
+------------------------------------------
+Function #185:
+  Name      : NtCreateLowBoxToken
+  Address   : 0x7ff8cce431e0
+  Trampoline: 0x7ff8cce431f2
+  Hooked    : false
+  SSN       : 184
+------------------------------------------
+Function #186:
+  Name      : NtCreateMailslotFile
+  Address   : 0x7ff8cce43200
+  Trampoline: 0x7ff8cce43212
+  Hooked    : false
+  SSN       : 185
+------------------------------------------
+Function #187:
+  Name      : NtCreateMutant
+  Address   : 0x7ff8cce43220
+  Trampoline: 0x7ff8cce43232
+  Hooked    : false
+  SSN       : 186
+------------------------------------------
+Function #188:
+  Name      : NtCreateNamedPipeFile
+  Address   : 0x7ff8cce43240
+  Trampoline: 0x7ff8cce43252
+  Hooked    : false
+  SSN       : 187
+------------------------------------------
+Function #189:
+  Name      : NtCreatePagingFile
+  Address   : 0x7ff8cce43260
+  Trampoline: 0x7ff8cce43272
+  Hooked    : false
+  SSN       : 188
+------------------------------------------
+Function #190:
+  Name      : NtCreatePartition
+  Address   : 0x7ff8cce43280
+  Trampoline: 0x7ff8cce43292
+  Hooked    : false
+  SSN       : 189
+------------------------------------------
+Function #191:
+  Name      : NtCreatePort
+  Address   : 0x7ff8cce432a0
+  Trampoline: 0x7ff8cce432b2
+  Hooked    : false
+  SSN       : 190
+------------------------------------------
+Function #192:
+  Name      : NtCreatePrivateNamespace
+  Address   : 0x7ff8cce432c0
+  Trampoline: 0x7ff8cce432d2
+  Hooked    : false
+  SSN       : 191
+------------------------------------------
+Function #193:
+  Name      : NtCreateProcess
+  Address   : 0x7ff8cce432e0
+  Trampoline: 0x7ff8cce432f2
+  Hooked    : false
+  SSN       : 192
+------------------------------------------
+Function #194:
+  Name      : NtCreateProcessStateChange
+  Address   : 0x7ff8cce43300
+  Trampoline: 0x7ff8cce43312
+  Hooked    : false
+  SSN       : 193
+------------------------------------------
+Function #195:
+  Name      : NtCreateProfile
+  Address   : 0x7ff8cce43320
+  Trampoline: 0x7ff8cce43332
+  Hooked    : false
+  SSN       : 194
+------------------------------------------
+Function #196:
+  Name      : NtCreateProfileEx
+  Address   : 0x7ff8cce43340
+  Trampoline: 0x7ff8cce43352
+  Hooked    : false
+  SSN       : 195
+------------------------------------------
+Function #197:
+  Name      : NtCreateRegistryTransaction
+  Address   : 0x7ff8cce43360
+  Trampoline: 0x7ff8cce43372
+  Hooked    : false
+  SSN       : 196
+------------------------------------------
+Function #198:
+  Name      : NtCreateResourceManager
+  Address   : 0x7ff8cce43380
+  Trampoline: 0x7ff8cce43392
+  Hooked    : false
+  SSN       : 197
+------------------------------------------
+Function #199:
+  Name      : NtCreateSectionEx
+  Address   : 0x7ff8cce433a0
+  Trampoline: 0x7ff8cce433b2
+  Hooked    : false
+  SSN       : 198
+------------------------------------------
+Function #200:
+  Name      : NtCreateSemaphore
+  Address   : 0x7ff8cce433c0
+  Trampoline: 0x7ff8cce433d2
+  Hooked    : false
+  SSN       : 199
+------------------------------------------
+Function #201:
+  Name      : NtCreateSymbolicLinkObject
+  Address   : 0x7ff8cce433e0
+  Trampoline: 0x7ff8cce433f2
+  Hooked    : false
+  SSN       : 200
+------------------------------------------
+Function #202:
+  Name      : NtCreateThreadEx
+  Address   : 0x7ff8cce43400
+  Trampoline: 0x7ff8cce43412
+  Hooked    : false
+  SSN       : 201
+------------------------------------------
+Function #203:
+  Name      : NtCreateThreadStateChange
+  Address   : 0x7ff8cce43420
+  Trampoline: 0x7ff8cce43432
+  Hooked    : false
+  SSN       : 202
+------------------------------------------
+Function #204:
+  Name      : NtCreateTimer
+  Address   : 0x7ff8cce43440
+  Trampoline: 0x7ff8cce43452
+  Hooked    : false
+  SSN       : 203
+------------------------------------------
+Function #205:
+  Name      : NtCreateTimer2
+  Address   : 0x7ff8cce43460
+  Trampoline: 0x7ff8cce43472
+  Hooked    : false
+  SSN       : 204
+------------------------------------------
+Function #206:
+  Name      : NtCreateToken
+  Address   : 0x7ff8cce43480
+  Trampoline: 0x7ff8cce43492
+  Hooked    : false
+  SSN       : 205
+------------------------------------------
+Function #207:
+  Name      : NtCreateTokenEx
+  Address   : 0x7ff8cce434a0
+  Trampoline: 0x7ff8cce434b2
+  Hooked    : false
+  SSN       : 206
+------------------------------------------
+Function #208:
+  Name      : NtCreateTransaction
+  Address   : 0x7ff8cce434c0
+  Trampoline: 0x7ff8cce434d2
+  Hooked    : false
+  SSN       : 207
+------------------------------------------
+Function #209:
+  Name      : NtCreateTransactionManager
+  Address   : 0x7ff8cce434e0
+  Trampoline: 0x7ff8cce434f2
+  Hooked    : false
+  SSN       : 208
+------------------------------------------
+Function #210:
+  Name      : NtCreateUserProcess
+  Address   : 0x7ff8cce43500
+  Trampoline: 0x7ff8cce43512
+  Hooked    : false
+  SSN       : 209
+------------------------------------------
+Function #211:
+  Name      : NtCreateWaitCompletionPacket
+  Address   : 0x7ff8cce43520
+  Trampoline: 0x7ff8cce43532
+  Hooked    : false
+  SSN       : 210
+------------------------------------------
+Function #212:
+  Name      : NtCreateWaitablePort
+  Address   : 0x7ff8cce43540
+  Trampoline: 0x7ff8cce43552
+  Hooked    : false
+  SSN       : 211
+------------------------------------------
+Function #213:
+  Name      : NtCreateWnfStateName
+  Address   : 0x7ff8cce43560
+  Trampoline: 0x7ff8cce43572
+  Hooked    : false
+  SSN       : 212
+------------------------------------------
+Function #214:
+  Name      : NtCreateWorkerFactory
+  Address   : 0x7ff8cce43580
+  Trampoline: 0x7ff8cce43592
+  Hooked    : false
+  SSN       : 213
+------------------------------------------
+Function #215:
+  Name      : NtDebugActiveProcess
+  Address   : 0x7ff8cce435a0
+  Trampoline: 0x7ff8cce435b2
+  Hooked    : false
+  SSN       : 214
+------------------------------------------
+Function #216:
+  Name      : NtDebugContinue
+  Address   : 0x7ff8cce435c0
+  Trampoline: 0x7ff8cce435d2
+  Hooked    : false
+  SSN       : 215
+------------------------------------------
+Function #217:
+  Name      : NtDeleteAtom
+  Address   : 0x7ff8cce435e0
+  Trampoline: 0x7ff8cce435f2
+  Hooked    : false
+  SSN       : 216
+------------------------------------------
+Function #218:
+  Name      : NtDeleteBootEntry
+  Address   : 0x7ff8cce43600
+  Trampoline: 0x7ff8cce43612
+  Hooked    : false
+  SSN       : 217
+------------------------------------------
+Function #219:
+  Name      : NtDeleteDriverEntry
+  Address   : 0x7ff8cce43620
+  Trampoline: 0x7ff8cce43632
+  Hooked    : false
+  SSN       : 218
+------------------------------------------
+Function #220:
+  Name      : NtDeleteFile
+  Address   : 0x7ff8cce43640
+  Trampoline: 0x7ff8cce43652
+  Hooked    : false
+  SSN       : 219
+------------------------------------------
+Function #221:
+  Name      : NtDeleteKey
+  Address   : 0x7ff8cce43660
+  Trampoline: 0x7ff8cce43672
+  Hooked    : false
+  SSN       : 220
+------------------------------------------
+Function #222:
+  Name      : NtDeleteObjectAuditAlarm
+  Address   : 0x7ff8cce43680
+  Trampoline: 0x7ff8cce43692
+  Hooked    : false
+  SSN       : 221
+------------------------------------------
+Function #223:
+  Name      : NtDeletePrivateNamespace
+  Address   : 0x7ff8cce436a0
+  Trampoline: 0x7ff8cce436b2
+  Hooked    : false
+  SSN       : 222
+------------------------------------------
+Function #224:
+  Name      : NtDeleteValueKey
+  Address   : 0x7ff8cce436c0
+  Trampoline: 0x7ff8cce436d2
+  Hooked    : false
+  SSN       : 223
+------------------------------------------
+Function #225:
+  Name      : NtDeleteWnfStateData
+  Address   : 0x7ff8cce436e0
+  Trampoline: 0x7ff8cce436f2
+  Hooked    : false
+  SSN       : 224
+------------------------------------------
+Function #226:
+  Name      : NtDeleteWnfStateName
+  Address   : 0x7ff8cce43700
+  Trampoline: 0x7ff8cce43712
+  Hooked    : false
+  SSN       : 225
+------------------------------------------
+Function #227:
+  Name      : NtDirectGraphicsCall
+  Address   : 0x7ff8cce43720
+  Trampoline: 0x7ff8cce43732
+  Hooked    : false
+  SSN       : 226
+------------------------------------------
+Function #228:
+  Name      : NtDisableLastKnownGood
+  Address   : 0x7ff8cce43740
+  Trampoline: 0x7ff8cce43752
+  Hooked    : false
+  SSN       : 227
+------------------------------------------
+Function #229:
+  Name      : NtDisplayString
+  Address   : 0x7ff8cce43760
+  Trampoline: 0x7ff8cce43772
+  Hooked    : false
+  SSN       : 228
+------------------------------------------
+Function #230:
+  Name      : NtDrawText
+  Address   : 0x7ff8cce43780
+  Trampoline: 0x7ff8cce43792
+  Hooked    : false
+  SSN       : 229
+------------------------------------------
+Function #231:
+  Name      : NtEnableLastKnownGood
+  Address   : 0x7ff8cce437a0
+  Trampoline: 0x7ff8cce437b2
+  Hooked    : false
+  SSN       : 230
+------------------------------------------
+Function #232:
+  Name      : NtEnumerateBootEntries
+  Address   : 0x7ff8cce437c0
+  Trampoline: 0x7ff8cce437d2
+  Hooked    : false
+  SSN       : 231
+------------------------------------------
+Function #233:
+  Name      : NtEnumerateDriverEntries
+  Address   : 0x7ff8cce437e0
+  Trampoline: 0x7ff8cce437f2
+  Hooked    : false
+  SSN       : 232
+------------------------------------------
+Function #234:
+  Name      : NtEnumerateSystemEnvironmentValuesEx
+  Address   : 0x7ff8cce43800
+  Trampoline: 0x7ff8cce43812
+  Hooked    : false
+  SSN       : 233
+------------------------------------------
+Function #235:
+  Name      : NtEnumerateTransactionObject
+  Address   : 0x7ff8cce43820
+  Trampoline: 0x7ff8cce43832
+  Hooked    : false
+  SSN       : 234
+------------------------------------------
+Function #236:
+  Name      : NtExtendSection
+  Address   : 0x7ff8cce43840
+  Trampoline: 0x7ff8cce43852
+  Hooked    : false
+  SSN       : 235
+------------------------------------------
+Function #237:
+  Name      : NtFilterBootOption
+  Address   : 0x7ff8cce43860
+  Trampoline: 0x7ff8cce43872
+  Hooked    : false
+  SSN       : 236
+------------------------------------------
+Function #238:
+  Name      : NtFilterToken
+  Address   : 0x7ff8cce43880
+  Trampoline: 0x7ff8cce43892
+  Hooked    : false
+  SSN       : 237
+------------------------------------------
+Function #239:
+  Name      : NtFilterTokenEx
+  Address   : 0x7ff8cce438a0
+  Trampoline: 0x7ff8cce438b2
+  Hooked    : false
+  SSN       : 238
+------------------------------------------
+Function #240:
+  Name      : NtFlushBuffersFileEx
+  Address   : 0x7ff8cce438c0
+  Trampoline: 0x7ff8cce438d2
+  Hooked    : false
+  SSN       : 239
+------------------------------------------
+Function #241:
+  Name      : NtFlushInstallUILanguage
+  Address   : 0x7ff8cce438e0
+  Trampoline: 0x7ff8cce438f2
+  Hooked    : false
+  SSN       : 240
+------------------------------------------
+Function #242:
+  Name      : NtFlushInstructionCache
+  Address   : 0x7ff8cce43900
+  Trampoline: 0x7ff8cce43912
+  Hooked    : false
+  SSN       : 241
+------------------------------------------
+Function #243:
+  Name      : NtFlushKey
+  Address   : 0x7ff8cce43920
+  Trampoline: 0x7ff8cce43932
+  Hooked    : false
+  SSN       : 242
+------------------------------------------
+Function #244:
+  Name      : NtFlushProcessWriteBuffers
+  Address   : 0x7ff8cce43940
+  Trampoline: 0x7ff8cce43952
+  Hooked    : false
+  SSN       : 243
+------------------------------------------
+Function #245:
+  Name      : NtFlushVirtualMemory
+  Address   : 0x7ff8cce43960
+  Trampoline: 0x7ff8cce43972
+  Hooked    : false
+  SSN       : 244
+------------------------------------------
+Function #246:
+  Name      : NtFlushWriteBuffer
+  Address   : 0x7ff8cce43980
+  Trampoline: 0x7ff8cce43992
+  Hooked    : false
+  SSN       : 245
+------------------------------------------
+Function #247:
+  Name      : NtFreeUserPhysicalPages
+  Address   : 0x7ff8cce439a0
+  Trampoline: 0x7ff8cce439b2
+  Hooked    : false
+  SSN       : 246
+------------------------------------------
+Function #248:
+  Name      : NtFreezeRegistry
+  Address   : 0x7ff8cce439c0
+  Trampoline: 0x7ff8cce439d2
+  Hooked    : false
+  SSN       : 247
+------------------------------------------
+Function #249:
+  Name      : NtFreezeTransactions
+  Address   : 0x7ff8cce439e0
+  Trampoline: 0x7ff8cce439f2
+  Hooked    : false
+  SSN       : 248
+------------------------------------------
+Function #250:
+  Name      : NtGetCachedSigningLevel
+  Address   : 0x7ff8cce43a00
+  Trampoline: 0x7ff8cce43a12
+  Hooked    : false
+  SSN       : 249
+------------------------------------------
+Function #251:
+  Name      : NtGetCompleteWnfStateSubscription
+  Address   : 0x7ff8cce43a20
+  Trampoline: 0x7ff8cce43a32
+  Hooked    : false
+  SSN       : 250
+------------------------------------------
+Function #252:
+  Name      : NtGetContextThread
+  Address   : 0x7ff8cce43a40
+  Trampoline: 0x7ff8cce43a52
+  Hooked    : false
+  SSN       : 251
+------------------------------------------
+Function #253:
+  Name      : NtGetCurrentProcessorNumber
+  Address   : 0x7ff8cce43a60
+  Trampoline: 0x7ff8cce43a72
+  Hooked    : false
+  SSN       : 252
+------------------------------------------
+Function #254:
+  Name      : NtGetCurrentProcessorNumberEx
+  Address   : 0x7ff8cce43a80
+  Trampoline: 0x7ff8cce43a92
+  Hooked    : false
+  SSN       : 253
+------------------------------------------
+Function #255:
+  Name      : NtGetDevicePowerState
+  Address   : 0x7ff8cce43aa0
+  Trampoline: 0x7ff8cce43ab2
+  Hooked    : false
+  SSN       : 254
+------------------------------------------
+Function #256:
+  Name      : NtGetMUIRegistryInfo
+  Address   : 0x7ff8cce43ac0
+  Trampoline: 0x7ff8cce43ad2
+  Hooked    : false
+  SSN       : 255
+------------------------------------------
+Function #257:
+  Name      : NtGetNextProcess
+  Address   : 0x7ff8cce43ae0
+  Trampoline: 0x7ff8cce43af2
+  Hooked    : false
+  SSN       : 0
+------------------------------------------
+Function #258:
+  Name      : NtGetNextThread
+  Address   : 0x7ff8cce43b00
+  Trampoline: 0x7ff8cce43b12
+  Hooked    : false
+  SSN       : 1
+------------------------------------------
+Function #259:
+  Name      : NtGetNlsSectionPtr
+  Address   : 0x7ff8cce43b20
+  Trampoline: 0x7ff8cce43b32
+  Hooked    : false
+  SSN       : 2
+------------------------------------------
+Function #260:
+  Name      : NtGetNotificationResourceManager
+  Address   : 0x7ff8cce43b40
+  Trampoline: 0x7ff8cce43b52
+  Hooked    : false
+  SSN       : 3
+------------------------------------------
+Function #261:
+  Name      : NtGetWriteWatch
+  Address   : 0x7ff8cce43b60
+  Trampoline: 0x7ff8cce43b72
+  Hooked    : false
+  SSN       : 4
+------------------------------------------
+Function #262:
+  Name      : NtImpersonateAnonymousToken
+  Address   : 0x7ff8cce43b80
+  Trampoline: 0x7ff8cce43b92
+  Hooked    : false
+  SSN       : 5
+------------------------------------------
+Function #263:
+  Name      : NtImpersonateThread
+  Address   : 0x7ff8cce43ba0
+  Trampoline: 0x7ff8cce43bb2
+  Hooked    : false
+  SSN       : 6
+------------------------------------------
+Function #264:
+  Name      : NtInitializeEnclave
+  Address   : 0x7ff8cce43bc0
+  Trampoline: 0x7ff8cce43bd2
+  Hooked    : false
+  SSN       : 7
+------------------------------------------
+Function #265:
+  Name      : NtInitializeNlsFiles
+  Address   : 0x7ff8cce43be0
+  Trampoline: 0x7ff8cce43bf2
+  Hooked    : false
+  SSN       : 8
+------------------------------------------
+Function #266:
+  Name      : NtInitializeRegistry
+  Address   : 0x7ff8cce43c00
+  Trampoline: 0x7ff8cce43c12
+  Hooked    : false
+  SSN       : 9
+------------------------------------------
+Function #267:
+  Name      : NtInitiatePowerAction
+  Address   : 0x7ff8cce43c20
+  Trampoline: 0x7ff8cce43c32
+  Hooked    : false
+  SSN       : 10
+------------------------------------------
+Function #268:
+  Name      : NtIsSystemResumeAutomatic
+  Address   : 0x7ff8cce43c40
+  Trampoline: 0x7ff8cce43c52
+  Hooked    : false
+  SSN       : 11
+------------------------------------------
+Function #269:
+  Name      : NtIsUILanguageComitted
+  Address   : 0x7ff8cce43c60
+  Trampoline: 0x7ff8cce43c72
+  Hooked    : false
+  SSN       : 12
+------------------------------------------
+Function #270:
+  Name      : NtListenPort
+  Address   : 0x7ff8cce43c80
+  Trampoline: 0x7ff8cce43c92
+  Hooked    : false
+  SSN       : 13
+------------------------------------------
+Function #271:
+  Name      : NtLoadDriver
+  Address   : 0x7ff8cce43ca0
+  Trampoline: 0x7ff8cce43cb2
+  Hooked    : false
+  SSN       : 14
+------------------------------------------
+Function #272:
+  Name      : NtLoadEnclaveData
+  Address   : 0x7ff8cce43cc0
+  Trampoline: 0x7ff8cce43cd2
+  Hooked    : false
+  SSN       : 15
+------------------------------------------
+Function #273:
+  Name      : NtLoadKey
+  Address   : 0x7ff8cce43ce0
+  Trampoline: 0x7ff8cce43cf2
+  Hooked    : false
+  SSN       : 16
+------------------------------------------
+Function #274:
+  Name      : NtLoadKey2
+  Address   : 0x7ff8cce43d00
+  Trampoline: 0x7ff8cce43d12
+  Hooked    : false
+  SSN       : 17
+------------------------------------------
+Function #275:
+  Name      : NtLoadKey3
+  Address   : 0x7ff8cce43d20
+  Trampoline: 0x7ff8cce43d32
+  Hooked    : false
+  SSN       : 18
+------------------------------------------
+Function #276:
+  Name      : NtLoadKeyEx
+  Address   : 0x7ff8cce43d40
+  Trampoline: 0x7ff8cce43d52
+  Hooked    : false
+  SSN       : 19
+------------------------------------------
+Function #277:
+  Name      : NtLockFile
+  Address   : 0x7ff8cce43d60
+  Trampoline: 0x7ff8cce43d72
+  Hooked    : false
+  SSN       : 20
+------------------------------------------
+Function #278:
+  Name      : NtLockProductActivationKeys
+  Address   : 0x7ff8cce43d80
+  Trampoline: 0x7ff8cce43d92
+  Hooked    : false
+  SSN       : 21
+------------------------------------------
+Function #279:
+  Name      : NtLockRegistryKey
+  Address   : 0x7ff8cce43da0
+  Trampoline: 0x7ff8cce43db2
+  Hooked    : false
+  SSN       : 22
+------------------------------------------
+Function #280:
+  Name      : NtLockVirtualMemory
+  Address   : 0x7ff8cce43dc0
+  Trampoline: 0x7ff8cce43dd2
+  Hooked    : false
+  SSN       : 23
+------------------------------------------
+Function #281:
+  Name      : NtMakePermanentObject
+  Address   : 0x7ff8cce43de0
+  Trampoline: 0x7ff8cce43df2
+  Hooked    : false
+  SSN       : 24
+------------------------------------------
+Function #282:
+  Name      : NtMakeTemporaryObject
+  Address   : 0x7ff8cce43e00
+  Trampoline: 0x7ff8cce43e12
+  Hooked    : false
+  SSN       : 25
+------------------------------------------
+Function #283:
+  Name      : NtManageHotPatch
+  Address   : 0x7ff8cce43e20
+  Trampoline: 0x7ff8cce43e32
+  Hooked    : false
+  SSN       : 26
+------------------------------------------
+Function #284:
+  Name      : NtManagePartition
+  Address   : 0x7ff8cce43e40
+  Trampoline: 0x7ff8cce43e52
+  Hooked    : false
+  SSN       : 27
+------------------------------------------
+Function #285:
+  Name      : NtMapCMFModule
+  Address   : 0x7ff8cce43e60
+  Trampoline: 0x7ff8cce43e72
+  Hooked    : false
+  SSN       : 28
+------------------------------------------
+Function #286:
+  Name      : NtMapUserPhysicalPages
+  Address   : 0x7ff8cce43e80
+  Trampoline: 0x7ff8cce43e92
+  Hooked    : false
+  SSN       : 29
+------------------------------------------
+Function #287:
+  Name      : NtMapViewOfSectionEx
+  Address   : 0x7ff8cce43ea0
+  Trampoline: 0x7ff8cce43eb2
+  Hooked    : false
+  SSN       : 30
+------------------------------------------
+Function #288:
+  Name      : NtModifyBootEntry
+  Address   : 0x7ff8cce43ec0
+  Trampoline: 0x7ff8cce43ed2
+  Hooked    : false
+  SSN       : 31
+------------------------------------------
+Function #289:
+  Name      : NtModifyDriverEntry
+  Address   : 0x7ff8cce43ee0
+  Trampoline: 0x7ff8cce43ef2
+  Hooked    : false
+  SSN       : 32
+------------------------------------------
+Function #290:
+  Name      : NtNotifyChangeDirectoryFile
+  Address   : 0x7ff8cce43f00
+  Trampoline: 0x7ff8cce43f12
+  Hooked    : false
+  SSN       : 33
+------------------------------------------
+Function #291:
+  Name      : NtNotifyChangeDirectoryFileEx
+  Address   : 0x7ff8cce43f20
+  Trampoline: 0x7ff8cce43f32
+  Hooked    : false
+  SSN       : 34
+------------------------------------------
+Function #292:
+  Name      : NtNotifyChangeKey
+  Address   : 0x7ff8cce43f40
+  Trampoline: 0x7ff8cce43f52
+  Hooked    : false
+  SSN       : 35
+------------------------------------------
+Function #293:
+  Name      : NtNotifyChangeMultipleKeys
+  Address   : 0x7ff8cce43f60
+  Trampoline: 0x7ff8cce43f72
+  Hooked    : false
+  SSN       : 36
+------------------------------------------
+Function #294:
+  Name      : NtNotifyChangeSession
+  Address   : 0x7ff8cce43f80
+  Trampoline: 0x7ff8cce43f92
+  Hooked    : false
+  SSN       : 37
+------------------------------------------
+Function #295:
+  Name      : NtOpenCpuPartition
+  Address   : 0x7ff8cce43fa0
+  Trampoline: 0x7ff8cce43fb2
+  Hooked    : false
+  SSN       : 38
+------------------------------------------
+Function #296:
+  Name      : NtOpenEnlistment
+  Address   : 0x7ff8cce43fc0
+  Trampoline: 0x7ff8cce43fd2
+  Hooked    : false
+  SSN       : 39
+------------------------------------------
+Function #297:
+  Name      : NtOpenEventPair
+  Address   : 0x7ff8cce43fe0
+  Trampoline: 0x7ff8cce43ff2
+  Hooked    : false
+  SSN       : 40
+------------------------------------------
+Function #298:
+  Name      : NtOpenIoCompletion
+  Address   : 0x7ff8cce44000
+  Trampoline: 0x7ff8cce44012
+  Hooked    : false
+  SSN       : 41
+------------------------------------------
+Function #299:
+  Name      : NtOpenJobObject
+  Address   : 0x7ff8cce44020
+  Trampoline: 0x7ff8cce44032
+  Hooked    : false
+  SSN       : 42
+------------------------------------------
+Function #300:
+  Name      : NtOpenKeyEx
+  Address   : 0x7ff8cce44040
+  Trampoline: 0x7ff8cce44052
+  Hooked    : false
+  SSN       : 43
+------------------------------------------
+Function #301:
+  Name      : NtOpenKeyTransacted
+  Address   : 0x7ff8cce44060
+  Trampoline: 0x7ff8cce44072
+  Hooked    : false
+  SSN       : 44
+------------------------------------------
+Function #302:
+  Name      : NtOpenKeyTransactedEx
+  Address   : 0x7ff8cce44080
+  Trampoline: 0x7ff8cce44092
+  Hooked    : false
+  SSN       : 45
+------------------------------------------
+Function #303:
+  Name      : NtOpenKeyedEvent
+  Address   : 0x7ff8cce440a0
+  Trampoline: 0x7ff8cce440b2
+  Hooked    : false
+  SSN       : 46
+------------------------------------------
+Function #304:
+  Name      : NtOpenMutant
+  Address   : 0x7ff8cce440c0
+  Trampoline: 0x7ff8cce440d2
+  Hooked    : false
+  SSN       : 47
+------------------------------------------
+Function #305:
+  Name      : NtOpenObjectAuditAlarm
+  Address   : 0x7ff8cce440e0
+  Trampoline: 0x7ff8cce440f2
+  Hooked    : false
+  SSN       : 48
+------------------------------------------
+Function #306:
+  Name      : NtOpenPartition
+  Address   : 0x7ff8cce44100
+  Trampoline: 0x7ff8cce44112
+  Hooked    : false
+  SSN       : 49
+------------------------------------------
+Function #307:
+  Name      : NtOpenPrivateNamespace
+  Address   : 0x7ff8cce44120
+  Trampoline: 0x7ff8cce44132
+  Hooked    : false
+  SSN       : 50
+------------------------------------------
+Function #308:
+  Name      : NtOpenProcessToken
+  Address   : 0x7ff8cce44140
+  Trampoline: 0x7ff8cce44152
+  Hooked    : false
+  SSN       : 51
+------------------------------------------
+Function #309:
+  Name      : NtOpenRegistryTransaction
+  Address   : 0x7ff8cce44160
+  Trampoline: 0x7ff8cce44172
+  Hooked    : false
+  SSN       : 52
+------------------------------------------
+Function #310:
+  Name      : NtOpenResourceManager
+  Address   : 0x7ff8cce44180
+  Trampoline: 0x7ff8cce44192
+  Hooked    : false
+  SSN       : 53
+------------------------------------------
+Function #311:
+  Name      : NtOpenSemaphore
+  Address   : 0x7ff8cce441a0
+  Trampoline: 0x7ff8cce441b2
+  Hooked    : false
+  SSN       : 54
+------------------------------------------
+Function #312:
+  Name      : NtOpenSession
+  Address   : 0x7ff8cce441c0
+  Trampoline: 0x7ff8cce441d2
+  Hooked    : false
+  SSN       : 55
+------------------------------------------
+Function #313:
+  Name      : NtOpenSymbolicLinkObject
+  Address   : 0x7ff8cce441e0
+  Trampoline: 0x7ff8cce441f2
+  Hooked    : false
+  SSN       : 56
+------------------------------------------
+Function #314:
+  Name      : NtOpenThread
+  Address   : 0x7ff8cce44200
+  Trampoline: 0x7ff8cce44212
+  Hooked    : false
+  SSN       : 57
+------------------------------------------
+Function #315:
+  Name      : NtOpenTimer
+  Address   : 0x7ff8cce44220
+  Trampoline: 0x7ff8cce44232
+  Hooked    : false
+  SSN       : 58
+------------------------------------------
+Function #316:
+  Name      : NtOpenTransaction
+  Address   : 0x7ff8cce44240
+  Trampoline: 0x7ff8cce44252
+  Hooked    : false
+  SSN       : 59
+------------------------------------------
+Function #317:
+  Name      : NtOpenTransactionManager
+  Address   : 0x7ff8cce44260
+  Trampoline: 0x7ff8cce44272
+  Hooked    : false
+  SSN       : 60
+------------------------------------------
+Function #318:
+  Name      : NtPlugPlayControl
+  Address   : 0x7ff8cce44280
+  Trampoline: 0x7ff8cce44292
+  Hooked    : false
+  SSN       : 61
+------------------------------------------
+Function #319:
+  Name      : NtPrePrepareComplete
+  Address   : 0x7ff8cce442a0
+  Trampoline: 0x7ff8cce442b2
+  Hooked    : false
+  SSN       : 62
+------------------------------------------
+Function #320:
+  Name      : NtPrePrepareEnlistment
+  Address   : 0x7ff8cce442c0
+  Trampoline: 0x7ff8cce442d2
+  Hooked    : false
+  SSN       : 63
+------------------------------------------
+Function #321:
+  Name      : NtPrepareComplete
+  Address   : 0x7ff8cce442e0
+  Trampoline: 0x7ff8cce442f2
+  Hooked    : false
+  SSN       : 64
+------------------------------------------
+Function #322:
+  Name      : NtPrepareEnlistment
+  Address   : 0x7ff8cce44300
+  Trampoline: 0x7ff8cce44312
+  Hooked    : false
+  SSN       : 65
+------------------------------------------
+Function #323:
+  Name      : NtPrivilegeCheck
+  Address   : 0x7ff8cce44320
+  Trampoline: 0x7ff8cce44332
+  Hooked    : false
+  SSN       : 66
+------------------------------------------
+Function #324:
+  Name      : NtPrivilegeObjectAuditAlarm
+  Address   : 0x7ff8cce44340
+  Trampoline: 0x7ff8cce44352
+  Hooked    : false
+  SSN       : 67
+------------------------------------------
+Function #325:
+  Name      : NtPrivilegedServiceAuditAlarm
+  Address   : 0x7ff8cce44360
+  Trampoline: 0x7ff8cce44372
+  Hooked    : false
+  SSN       : 68
+------------------------------------------
+Function #326:
+  Name      : NtPropagationComplete
+  Address   : 0x7ff8cce44380
+  Trampoline: 0x7ff8cce44392
+  Hooked    : false
+  SSN       : 69
+------------------------------------------
+Function #327:
+  Name      : NtPropagationFailed
+  Address   : 0x7ff8cce443a0
+  Trampoline: 0x7ff8cce443b2
+  Hooked    : false
+  SSN       : 70
+------------------------------------------
+Function #328:
+  Name      : NtPssCaptureVaSpaceBulk
+  Address   : 0x7ff8cce443c0
+  Trampoline: 0x7ff8cce443d2
+  Hooked    : false
+  SSN       : 71
+------------------------------------------
+Function #329:
+  Name      : NtPulseEvent
+  Address   : 0x7ff8cce443e0
+  Trampoline: 0x7ff8cce443f2
+  Hooked    : false
+  SSN       : 72
+------------------------------------------
+Function #330:
+  Name      : NtQueryAuxiliaryCounterFrequency
+  Address   : 0x7ff8cce44400
+  Trampoline: 0x7ff8cce44412
+  Hooked    : false
+  SSN       : 73
+------------------------------------------
+Function #331:
+  Name      : NtQueryBootEntryOrder
+  Address   : 0x7ff8cce44420
+  Trampoline: 0x7ff8cce44432
+  Hooked    : false
+  SSN       : 74
+------------------------------------------
+Function #332:
+  Name      : NtQueryBootOptions
+  Address   : 0x7ff8cce44440
+  Trampoline: 0x7ff8cce44452
+  Hooked    : false
+  SSN       : 75
+------------------------------------------
+Function #333:
+  Name      : NtQueryDebugFilterState
+  Address   : 0x7ff8cce44460
+  Trampoline: 0x7ff8cce44472
+  Hooked    : false
+  SSN       : 76
+------------------------------------------
+Function #334:
+  Name      : NtQueryDirectoryFileEx
+  Address   : 0x7ff8cce44480
+  Trampoline: 0x7ff8cce44492
+  Hooked    : false
+  SSN       : 77
+------------------------------------------
+Function #335:
+  Name      : NtQueryDirectoryObject
+  Address   : 0x7ff8cce444a0
+  Trampoline: 0x7ff8cce444b2
+  Hooked    : false
+  SSN       : 78
+------------------------------------------
+Function #336:
+  Name      : NtQueryDriverEntryOrder
+  Address   : 0x7ff8cce444c0
+  Trampoline: 0x7ff8cce444d2
+  Hooked    : false
+  SSN       : 79
+------------------------------------------
+Function #337:
+  Name      : NtQueryEaFile
+  Address   : 0x7ff8cce444e0
+  Trampoline: 0x7ff8cce444f2
+  Hooked    : false
+  SSN       : 80
+------------------------------------------
+Function #338:
+  Name      : NtQueryFullAttributesFile
+  Address   : 0x7ff8cce44500
+  Trampoline: 0x7ff8cce44512
+  Hooked    : false
+  SSN       : 81
+------------------------------------------
+Function #339:
+  Name      : NtQueryInformationAtom
+  Address   : 0x7ff8cce44520
+  Trampoline: 0x7ff8cce44532
+  Hooked    : false
+  SSN       : 82
+------------------------------------------
+Function #340:
+  Name      : NtQueryInformationByName
+  Address   : 0x7ff8cce44540
+  Trampoline: 0x7ff8cce44552
+  Hooked    : false
+  SSN       : 83
+------------------------------------------
+Function #341:
+  Name      : NtQueryInformationCpuPartition
+  Address   : 0x7ff8cce44560
+  Trampoline: 0x7ff8cce44572
+  Hooked    : false
+  SSN       : 84
+------------------------------------------
+Function #342:
+  Name      : NtQueryInformationEnlistment
+  Address   : 0x7ff8cce44580
+  Trampoline: 0x7ff8cce44592
+  Hooked    : false
+  SSN       : 85
+------------------------------------------
+Function #343:
+  Name      : NtQueryInformationJobObject
+  Address   : 0x7ff8cce445a0
+  Trampoline: 0x7ff8cce445b2
+  Hooked    : false
+  SSN       : 86
+------------------------------------------
+Function #344:
+  Name      : NtQueryInformationPort
+  Address   : 0x7ff8cce445c0
+  Trampoline: 0x7ff8cce445d2
+  Hooked    : false
+  SSN       : 87
+------------------------------------------
+Function #345:
+  Name      : NtQueryInformationResourceManager
+  Address   : 0x7ff8cce445e0
+  Trampoline: 0x7ff8cce445f2
+  Hooked    : false
+  SSN       : 88
+------------------------------------------
+Function #346:
+  Name      : NtQueryInformationTransaction
+  Address   : 0x7ff8cce44600
+  Trampoline: 0x7ff8cce44612
+  Hooked    : false
+  SSN       : 89
+------------------------------------------
+Function #347:
+  Name      : NtQueryInformationTransactionManager
+  Address   : 0x7ff8cce44620
+  Trampoline: 0x7ff8cce44632
+  Hooked    : false
+  SSN       : 90
+------------------------------------------
+Function #348:
+  Name      : NtQueryInformationWorkerFactory
+  Address   : 0x7ff8cce44640
+  Trampoline: 0x7ff8cce44652
+  Hooked    : false
+  SSN       : 91
+------------------------------------------
+Function #349:
+  Name      : NtQueryInstallUILanguage
+  Address   : 0x7ff8cce44660
+  Trampoline: 0x7ff8cce44672
+  Hooked    : false
+  SSN       : 92
+------------------------------------------
+Function #350:
+  Name      : NtQueryIntervalProfile
+  Address   : 0x7ff8cce44680
+  Trampoline: 0x7ff8cce44692
+  Hooked    : false
+  SSN       : 93
+------------------------------------------
+Function #351:
+  Name      : NtQueryIoCompletion
+  Address   : 0x7ff8cce446a0
+  Trampoline: 0x7ff8cce446b2
+  Hooked    : false
+  SSN       : 94
+------------------------------------------
+Function #352:
+  Name      : NtQueryIoRingCapabilities
+  Address   : 0x7ff8cce446c0
+  Trampoline: 0x7ff8cce446d2
+  Hooked    : false
+  SSN       : 95
+------------------------------------------
+Function #353:
+  Name      : NtQueryLicenseValue
+  Address   : 0x7ff8cce446e0
+  Trampoline: 0x7ff8cce446f2
+  Hooked    : false
+  SSN       : 96
+------------------------------------------
+Function #354:
+  Name      : NtQueryMultipleValueKey
+  Address   : 0x7ff8cce44700
+  Trampoline: 0x7ff8cce44712
+  Hooked    : false
+  SSN       : 97
+------------------------------------------
+Function #355:
+  Name      : NtQueryMutant
+  Address   : 0x7ff8cce44720
+  Trampoline: 0x7ff8cce44732
+  Hooked    : false
+  SSN       : 98
+------------------------------------------
+Function #356:
+  Name      : NtQueryOpenSubKeys
+  Address   : 0x7ff8cce44740
+  Trampoline: 0x7ff8cce44752
+  Hooked    : false
+  SSN       : 99
+------------------------------------------
+Function #357:
+  Name      : NtQueryOpenSubKeysEx
+  Address   : 0x7ff8cce44760
+  Trampoline: 0x7ff8cce44772
+  Hooked    : false
+  SSN       : 100
+------------------------------------------
+Function #358:
+  Name      : NtQueryPortInformationProcess
+  Address   : 0x7ff8cce44780
+  Trampoline: 0x7ff8cce44792
+  Hooked    : false
+  SSN       : 101
+------------------------------------------
+Function #359:
+  Name      : NtQueryQuotaInformationFile
+  Address   : 0x7ff8cce447a0
+  Trampoline: 0x7ff8cce447b2
+  Hooked    : false
+  SSN       : 102
+------------------------------------------
+Function #360:
+  Name      : NtQuerySecurityAttributesToken
+  Address   : 0x7ff8cce447c0
+  Trampoline: 0x7ff8cce447d2
+  Hooked    : false
+  SSN       : 103
+------------------------------------------
+Function #361:
+  Name      : NtQuerySecurityObject
+  Address   : 0x7ff8cce447e0
+  Trampoline: 0x7ff8cce447f2
+  Hooked    : false
+  SSN       : 104
+------------------------------------------
+Function #362:
+  Name      : NtQuerySecurityPolicy
+  Address   : 0x7ff8cce44800
+  Trampoline: 0x7ff8cce44812
+  Hooked    : false
+  SSN       : 105
+------------------------------------------
+Function #363:
+  Name      : NtQuerySemaphore
+  Address   : 0x7ff8cce44820
+  Trampoline: 0x7ff8cce44832
+  Hooked    : false
+  SSN       : 106
+------------------------------------------
+Function #364:
+  Name      : NtQuerySymbolicLinkObject
+  Address   : 0x7ff8cce44840
+  Trampoline: 0x7ff8cce44852
+  Hooked    : false
+  SSN       : 107
+------------------------------------------
+Function #365:
+  Name      : NtQuerySystemEnvironmentValue
+  Address   : 0x7ff8cce44860
+  Trampoline: 0x7ff8cce44872
+  Hooked    : false
+  SSN       : 108
+------------------------------------------
+Function #366:
+  Name      : NtQuerySystemEnvironmentValueEx
+  Address   : 0x7ff8cce44880
+  Trampoline: 0x7ff8cce44892
+  Hooked    : false
+  SSN       : 109
+------------------------------------------
+Function #367:
+  Name      : NtQuerySystemInformationEx
+  Address   : 0x7ff8cce448a0
+  Trampoline: 0x7ff8cce448b2
+  Hooked    : false
+  SSN       : 110
+------------------------------------------
+Function #368:
+  Name      : NtQueryTimerResolution
+  Address   : 0x7ff8cce448c0
+  Trampoline: 0x7ff8cce448d2
+  Hooked    : false
+  SSN       : 111
+------------------------------------------
+Function #369:
+  Name      : NtQueryWnfStateData
+  Address   : 0x7ff8cce448e0
+  Trampoline: 0x7ff8cce448f2
+  Hooked    : false
+  SSN       : 112
+------------------------------------------
+Function #370:
+  Name      : NtQueryWnfStateNameInformation
+  Address   : 0x7ff8cce44900
+  Trampoline: 0x7ff8cce44912
+  Hooked    : false
+  SSN       : 113
+------------------------------------------
+Function #371:
+  Name      : NtQueueApcThreadEx
+  Address   : 0x7ff8cce44920
+  Trampoline: 0x7ff8cce44932
+  Hooked    : false
+  SSN       : 114
+------------------------------------------
+Function #372:
+  Name      : NtQueueApcThreadEx2
+  Address   : 0x7ff8cce44940
+  Trampoline: 0x7ff8cce44952
+  Hooked    : false
+  SSN       : 115
+------------------------------------------
+Function #373:
+  Name      : NtRaiseException
+  Address   : 0x7ff8cce44960
+  Trampoline: 0x7ff8cce44972
+  Hooked    : false
+  SSN       : 116
+------------------------------------------
+Function #374:
+  Name      : NtRaiseHardError
+  Address   : 0x7ff8cce44980
+  Trampoline: 0x7ff8cce44992
+  Hooked    : false
+  SSN       : 117
+------------------------------------------
+Function #375:
+  Name      : NtReadOnlyEnlistment
+  Address   : 0x7ff8cce449a0
+  Trampoline: 0x7ff8cce449b2
+  Hooked    : false
+  SSN       : 118
+------------------------------------------
+Function #376:
+  Name      : NtReadVirtualMemoryEx
+  Address   : 0x7ff8cce449c0
+  Trampoline: 0x7ff8cce449d2
+  Hooked    : false
+  SSN       : 119
+------------------------------------------
+Function #377:
+  Name      : NtRecoverEnlistment
+  Address   : 0x7ff8cce449e0
+  Trampoline: 0x7ff8cce449f2
+  Hooked    : false
+  SSN       : 120
+------------------------------------------
+Function #378:
+  Name      : NtRecoverResourceManager
+  Address   : 0x7ff8cce44a00
+  Trampoline: 0x7ff8cce44a12
+  Hooked    : false
+  SSN       : 121
+------------------------------------------
+Function #379:
+  Name      : NtRecoverTransactionManager
+  Address   : 0x7ff8cce44a20
+  Trampoline: 0x7ff8cce44a32
+  Hooked    : false
+  SSN       : 122
+------------------------------------------
+Function #380:
+  Name      : NtRegisterProtocolAddressInformation
+  Address   : 0x7ff8cce44a40
+  Trampoline: 0x7ff8cce44a52
+  Hooked    : false
+  SSN       : 123
+------------------------------------------
+Function #381:
+  Name      : NtRegisterThreadTerminatePort
+  Address   : 0x7ff8cce44a60
+  Trampoline: 0x7ff8cce44a72
+  Hooked    : false
+  SSN       : 124
+------------------------------------------
+Function #382:
+  Name      : NtReleaseKeyedEvent
+  Address   : 0x7ff8cce44a80
+  Trampoline: 0x7ff8cce44a92
+  Hooked    : false
+  SSN       : 125
+------------------------------------------
+Function #383:
+  Name      : NtReleaseWorkerFactoryWorker
+  Address   : 0x7ff8cce44aa0
+  Trampoline: 0x7ff8cce44ab2
+  Hooked    : false
+  SSN       : 126
+------------------------------------------
+Function #384:
+  Name      : NtRemoveIoCompletionEx
+  Address   : 0x7ff8cce44ac0
+  Trampoline: 0x7ff8cce44ad2
+  Hooked    : false
+  SSN       : 127
+------------------------------------------
+Function #385:
+  Name      : NtRemoveProcessDebug
+  Address   : 0x7ff8cce44ae0
+  Trampoline: 0x7ff8cce44af2
+  Hooked    : false
+  SSN       : 128
+------------------------------------------
+Function #386:
+  Name      : NtRenameKey
+  Address   : 0x7ff8cce44b00
+  Trampoline: 0x7ff8cce44b12
+  Hooked    : false
+  SSN       : 129
+------------------------------------------
+Function #387:
+  Name      : NtRenameTransactionManager
+  Address   : 0x7ff8cce44b20
+  Trampoline: 0x7ff8cce44b32
+  Hooked    : false
+  SSN       : 130
+------------------------------------------
+Function #388:
+  Name      : NtReplaceKey
+  Address   : 0x7ff8cce44b40
+  Trampoline: 0x7ff8cce44b52
+  Hooked    : false
+  SSN       : 131
+------------------------------------------
+Function #389:
+  Name      : NtReplacePartitionUnit
+  Address   : 0x7ff8cce44b60
+  Trampoline: 0x7ff8cce44b72
+  Hooked    : false
+  SSN       : 132
+------------------------------------------
+Function #390:
+  Name      : NtReplyWaitReplyPort
+  Address   : 0x7ff8cce44b80
+  Trampoline: 0x7ff8cce44b92
+  Hooked    : false
+  SSN       : 133
+------------------------------------------
+Function #391:
+  Name      : NtRequestPort
+  Address   : 0x7ff8cce44ba0
+  Trampoline: 0x7ff8cce44bb2
+  Hooked    : false
+  SSN       : 134
+------------------------------------------
+Function #392:
+  Name      : NtResetEvent
+  Address   : 0x7ff8cce44bc0
+  Trampoline: 0x7ff8cce44bd2
+  Hooked    : false
+  SSN       : 135
+------------------------------------------
+Function #393:
+  Name      : NtResetWriteWatch
+  Address   : 0x7ff8cce44be0
+  Trampoline: 0x7ff8cce44bf2
+  Hooked    : false
+  SSN       : 136
+------------------------------------------
+Function #394:
+  Name      : NtRestoreKey
+  Address   : 0x7ff8cce44c00
+  Trampoline: 0x7ff8cce44c12
+  Hooked    : false
+  SSN       : 137
+------------------------------------------
+Function #395:
+  Name      : NtResumeProcess
+  Address   : 0x7ff8cce44c20
+  Trampoline: 0x7ff8cce44c32
+  Hooked    : false
+  SSN       : 138
+------------------------------------------
+Function #396:
+  Name      : NtRevertContainerImpersonation
+  Address   : 0x7ff8cce44c40
+  Trampoline: 0x7ff8cce44c52
+  Hooked    : false
+  SSN       : 139
+------------------------------------------
+Function #397:
+  Name      : NtRollbackComplete
+  Address   : 0x7ff8cce44c60
+  Trampoline: 0x7ff8cce44c72
+  Hooked    : false
+  SSN       : 140
+------------------------------------------
+Function #398:
+  Name      : NtRollbackEnlistment
+  Address   : 0x7ff8cce44c80
+  Trampoline: 0x7ff8cce44c92
+  Hooked    : false
+  SSN       : 141
+------------------------------------------
+Function #399:
+  Name      : NtRollbackRegistryTransaction
+  Address   : 0x7ff8cce44ca0
+  Trampoline: 0x7ff8cce44cb2
+  Hooked    : false
+  SSN       : 142
+------------------------------------------
+Function #400:
+  Name      : NtRollbackTransaction
+  Address   : 0x7ff8cce44cc0
+  Trampoline: 0x7ff8cce44cd2
+  Hooked    : false
+  SSN       : 143
+------------------------------------------
+Function #401:
+  Name      : NtRollforwardTransactionManager
+  Address   : 0x7ff8cce44ce0
+  Trampoline: 0x7ff8cce44cf2
+  Hooked    : false
+  SSN       : 144
+------------------------------------------
+Function #402:
+  Name      : NtSaveKey
+  Address   : 0x7ff8cce44d00
+  Trampoline: 0x7ff8cce44d12
+  Hooked    : false
+  SSN       : 145
+------------------------------------------
+Function #403:
+  Name      : NtSaveKeyEx
+  Address   : 0x7ff8cce44d20
+  Trampoline: 0x7ff8cce44d32
+  Hooked    : false
+  SSN       : 146
+------------------------------------------
+Function #404:
+  Name      : NtSaveMergedKeys
+  Address   : 0x7ff8cce44d40
+  Trampoline: 0x7ff8cce44d52
+  Hooked    : false
+  SSN       : 147
+------------------------------------------
+Function #405:
+  Name      : NtSecureConnectPort
+  Address   : 0x7ff8cce44d60
+  Trampoline: 0x7ff8cce44d72
+  Hooked    : false
+  SSN       : 148
+------------------------------------------
+Function #406:
+  Name      : NtSerializeBoot
+  Address   : 0x7ff8cce44d80
+  Trampoline: 0x7ff8cce44d92
+  Hooked    : false
+  SSN       : 149
+------------------------------------------
+Function #407:
+  Name      : NtSetBootEntryOrder
+  Address   : 0x7ff8cce44da0
+  Trampoline: 0x7ff8cce44db2
+  Hooked    : false
+  SSN       : 150
+------------------------------------------
+Function #408:
+  Name      : NtSetBootOptions
+  Address   : 0x7ff8cce44dc0
+  Trampoline: 0x7ff8cce44dd2
+  Hooked    : false
+  SSN       : 151
+------------------------------------------
+Function #409:
+  Name      : NtSetCachedSigningLevel
+  Address   : 0x7ff8cce44de0
+  Trampoline: 0x7ff8cce44df2
+  Hooked    : false
+  SSN       : 152
+------------------------------------------
+Function #410:
+  Name      : NtSetCachedSigningLevel2
+  Address   : 0x7ff8cce44e00
+  Trampoline: 0x7ff8cce44e12
+  Hooked    : false
+  SSN       : 153
+------------------------------------------
+Function #411:
+  Name      : NtSetContextThread
+  Address   : 0x7ff8cce44e20
+  Trampoline: 0x7ff8cce44e32
+  Hooked    : false
+  SSN       : 154
+------------------------------------------
+Function #412:
+  Name      : NtSetDebugFilterState
+  Address   : 0x7ff8cce44e40
+  Trampoline: 0x7ff8cce44e52
+  Hooked    : false
+  SSN       : 155
+------------------------------------------
+Function #413:
+  Name      : NtSetDefaultHardErrorPort
+  Address   : 0x7ff8cce44e60
+  Trampoline: 0x7ff8cce44e72
+  Hooked    : false
+  SSN       : 156
+------------------------------------------
+Function #414:
+  Name      : NtSetDefaultLocale
+  Address   : 0x7ff8cce44e80
+  Trampoline: 0x7ff8cce44e92
+  Hooked    : false
+  SSN       : 157
+------------------------------------------
+Function #415:
+  Name      : NtSetDefaultUILanguage
+  Address   : 0x7ff8cce44ea0
+  Trampoline: 0x7ff8cce44eb2
+  Hooked    : false
+  SSN       : 158
+------------------------------------------
+Function #416:
+  Name      : NtSetDriverEntryOrder
+  Address   : 0x7ff8cce44ec0
+  Trampoline: 0x7ff8cce44ed2
+  Hooked    : false
+  SSN       : 159
+------------------------------------------
+Function #417:
+  Name      : NtSetEaFile
+  Address   : 0x7ff8cce44ee0
+  Trampoline: 0x7ff8cce44ef2
+  Hooked    : false
+  SSN       : 160
+------------------------------------------
+Function #418:
+  Name      : NtSetEventEx
+  Address   : 0x7ff8cce44f00
+  Trampoline: 0x7ff8cce44f12
+  Hooked    : false
+  SSN       : 161
+------------------------------------------
+Function #419:
+  Name      : NtSetHighEventPair
+  Address   : 0x7ff8cce44f20
+  Trampoline: 0x7ff8cce44f32
+  Hooked    : false
+  SSN       : 162
+------------------------------------------
+Function #420:
+  Name      : NtSetHighWaitLowEventPair
+  Address   : 0x7ff8cce44f40
+  Trampoline: 0x7ff8cce44f52
+  Hooked    : false
+  SSN       : 163
+------------------------------------------
+Function #421:
+  Name      : NtSetIRTimer
+  Address   : 0x7ff8cce44f60
+  Trampoline: 0x7ff8cce44f72
+  Hooked    : false
+  SSN       : 164
+------------------------------------------
+Function #422:
+  Name      : NtSetInformationCpuPartition
+  Address   : 0x7ff8cce44f80
+  Trampoline: 0x7ff8cce44f92
+  Hooked    : false
+  SSN       : 165
+------------------------------------------
+Function #423:
+  Name      : NtSetInformationDebugObject
+  Address   : 0x7ff8cce44fa0
+  Trampoline: 0x7ff8cce44fb2
+  Hooked    : false
+  SSN       : 166
+------------------------------------------
+Function #424:
+  Name      : NtSetInformationEnlistment
+  Address   : 0x7ff8cce44fc0
+  Trampoline: 0x7ff8cce44fd2
+  Hooked    : false
+  SSN       : 167
+------------------------------------------
+Function #425:
+  Name      : NtSetInformationIoRing
+  Address   : 0x7ff8cce44fe0
+  Trampoline: 0x7ff8cce44ff2
+  Hooked    : false
+  SSN       : 168
+------------------------------------------
+Function #426:
+  Name      : NtSetInformationJobObject
+  Address   : 0x7ff8cce45000
+  Trampoline: 0x7ff8cce45012
+  Hooked    : false
+  SSN       : 169
+------------------------------------------
+Function #427:
+  Name      : NtSetInformationKey
+  Address   : 0x7ff8cce45020
+  Trampoline: 0x7ff8cce45032
+  Hooked    : false
+  SSN       : 170
+------------------------------------------
+Function #428:
+  Name      : NtSetInformationResourceManager
+  Address   : 0x7ff8cce45040
+  Trampoline: 0x7ff8cce45052
+  Hooked    : false
+  SSN       : 171
+------------------------------------------
+Function #429:
+  Name      : NtSetInformationSymbolicLink
+  Address   : 0x7ff8cce45060
+  Trampoline: 0x7ff8cce45072
+  Hooked    : false
+  SSN       : 172
+------------------------------------------
+Function #430:
+  Name      : NtSetInformationToken
+  Address   : 0x7ff8cce45080
+  Trampoline: 0x7ff8cce45092
+  Hooked    : false
+  SSN       : 173
+------------------------------------------
+Function #431:
+  Name      : NtSetInformationTransaction
+  Address   : 0x7ff8cce450a0
+  Trampoline: 0x7ff8cce450b2
+  Hooked    : false
+  SSN       : 174
+------------------------------------------
+Function #432:
+  Name      : NtSetInformationTransactionManager
+  Address   : 0x7ff8cce450c0
+  Trampoline: 0x7ff8cce450d2
+  Hooked    : false
+  SSN       : 175
+------------------------------------------
+Function #433:
+  Name      : NtSetInformationVirtualMemory
+  Address   : 0x7ff8cce450e0
+  Trampoline: 0x7ff8cce450f2
+  Hooked    : false
+  SSN       : 176
+------------------------------------------
+Function #434:
+  Name      : NtSetInformationWorkerFactory
+  Address   : 0x7ff8cce45100
+  Trampoline: 0x7ff8cce45112
+  Hooked    : false
+  SSN       : 177
+------------------------------------------
+Function #435:
+  Name      : NtSetIntervalProfile
+  Address   : 0x7ff8cce45120
+  Trampoline: 0x7ff8cce45132
+  Hooked    : false
+  SSN       : 178
+------------------------------------------
+Function #436:
+  Name      : NtSetIoCompletion
+  Address   : 0x7ff8cce45140
+  Trampoline: 0x7ff8cce45152
+  Hooked    : false
+  SSN       : 179
+------------------------------------------
+Function #437:
+  Name      : NtSetIoCompletionEx
+  Address   : 0x7ff8cce45160
+  Trampoline: 0x7ff8cce45172
+  Hooked    : false
+  SSN       : 180
+------------------------------------------
+Function #438:
+  Name      : NtSetLdtEntries
+  Address   : 0x7ff8cce45180
+  Trampoline: 0x7ff8cce45192
+  Hooked    : false
+  SSN       : 181
+------------------------------------------
+Function #439:
+  Name      : NtSetLowEventPair
+  Address   : 0x7ff8cce451a0
+  Trampoline: 0x7ff8cce451b2
+  Hooked    : false
+  SSN       : 182
+------------------------------------------
+Function #440:
+  Name      : NtSetLowWaitHighEventPair
+  Address   : 0x7ff8cce451c0
+  Trampoline: 0x7ff8cce451d2
+  Hooked    : false
+  SSN       : 183
+------------------------------------------
+Function #441:
+  Name      : NtSetQuotaInformationFile
+  Address   : 0x7ff8cce451e0
+  Trampoline: 0x7ff8cce451f2
+  Hooked    : false
+  SSN       : 184
+------------------------------------------
+Function #442:
+  Name      : NtSetSecurityObject
+  Address   : 0x7ff8cce45200
+  Trampoline: 0x7ff8cce45212
+  Hooked    : false
+  SSN       : 185
+------------------------------------------
+Function #443:
+  Name      : NtSetSystemEnvironmentValue
+  Address   : 0x7ff8cce45220
+  Trampoline: 0x7ff8cce45232
+  Hooked    : false
+  SSN       : 186
+------------------------------------------
+Function #444:
+  Name      : NtSetSystemEnvironmentValueEx
+  Address   : 0x7ff8cce45240
+  Trampoline: 0x7ff8cce45252
+  Hooked    : false
+  SSN       : 187
+------------------------------------------
+Function #445:
+  Name      : NtSetSystemInformation
+  Address   : 0x7ff8cce45260
+  Trampoline: 0x7ff8cce45272
+  Hooked    : false
+  SSN       : 188
+------------------------------------------
+Function #446:
+  Name      : NtSetSystemPowerState
+  Address   : 0x7ff8cce45280
+  Trampoline: 0x7ff8cce45292
+  Hooked    : false
+  SSN       : 189
+------------------------------------------
+Function #447:
+  Name      : NtSetSystemTime
+  Address   : 0x7ff8cce452a0
+  Trampoline: 0x7ff8cce452b2
+  Hooked    : false
+  SSN       : 190
+------------------------------------------
+Function #448:
+  Name      : NtSetThreadExecutionState
+  Address   : 0x7ff8cce452c0
+  Trampoline: 0x7ff8cce452d2
+  Hooked    : false
+  SSN       : 191
+------------------------------------------
+Function #449:
+  Name      : NtSetTimer2
+  Address   : 0x7ff8cce452e0
+  Trampoline: 0x7ff8cce452f2
+  Hooked    : false
+  SSN       : 192
+------------------------------------------
+Function #450:
+  Name      : NtSetTimerEx
+  Address   : 0x7ff8cce45300
+  Trampoline: 0x7ff8cce45312
+  Hooked    : false
+  SSN       : 193
+------------------------------------------
+Function #451:
+  Name      : NtSetTimerResolution
+  Address   : 0x7ff8cce45320
+  Trampoline: 0x7ff8cce45332
+  Hooked    : false
+  SSN       : 194
+------------------------------------------
+Function #452:
+  Name      : NtSetUuidSeed
+  Address   : 0x7ff8cce45340
+  Trampoline: 0x7ff8cce45352
+  Hooked    : false
+  SSN       : 195
+------------------------------------------
+Function #453:
+  Name      : NtSetVolumeInformationFile
+  Address   : 0x7ff8cce45360
+  Trampoline: 0x7ff8cce45372
+  Hooked    : false
+  SSN       : 196
+------------------------------------------
+Function #454:
+  Name      : NtSetWnfProcessNotificationEvent
+  Address   : 0x7ff8cce45380
+  Trampoline: 0x7ff8cce45392
+  Hooked    : false
+  SSN       : 197
+------------------------------------------
+Function #455:
+  Name      : NtShutdownSystem
+  Address   : 0x7ff8cce453a0
+  Trampoline: 0x7ff8cce453b2
+  Hooked    : false
+  SSN       : 198
+------------------------------------------
+Function #456:
+  Name      : NtShutdownWorkerFactory
+  Address   : 0x7ff8cce453c0
+  Trampoline: 0x7ff8cce453d2
+  Hooked    : false
+  SSN       : 199
+------------------------------------------
+Function #457:
+  Name      : NtSignalAndWaitForSingleObject
+  Address   : 0x7ff8cce453e0
+  Trampoline: 0x7ff8cce453f2
+  Hooked    : false
+  SSN       : 200
+------------------------------------------
+Function #458:
+  Name      : NtSinglePhaseReject
+  Address   : 0x7ff8cce45400
+  Trampoline: 0x7ff8cce45412
+  Hooked    : false
+  SSN       : 201
+------------------------------------------
+Function #459:
+  Name      : NtStartProfile
+  Address   : 0x7ff8cce45420
+  Trampoline: 0x7ff8cce45432
+  Hooked    : false
+  SSN       : 202
+------------------------------------------
+Function #460:
+  Name      : NtStopProfile
+  Address   : 0x7ff8cce45440
+  Trampoline: 0x7ff8cce45452
+  Hooked    : false
+  SSN       : 203
+------------------------------------------
+Function #461:
+  Name      : NtSubmitIoRing
+  Address   : 0x7ff8cce45460
+  Trampoline: 0x7ff8cce45472
+  Hooked    : false
+  SSN       : 204
+------------------------------------------
+Function #462:
+  Name      : NtSubscribeWnfStateChange
+  Address   : 0x7ff8cce45480
+  Trampoline: 0x7ff8cce45492
+  Hooked    : false
+  SSN       : 205
+------------------------------------------
+Function #463:
+  Name      : NtSuspendProcess
+  Address   : 0x7ff8cce454a0
+  Trampoline: 0x7ff8cce454b2
+  Hooked    : false
+  SSN       : 206
+------------------------------------------
+Function #464:
+  Name      : NtSuspendThread
+  Address   : 0x7ff8cce454c0
+  Trampoline: 0x7ff8cce454d2
+  Hooked    : false
+  SSN       : 207
+------------------------------------------
+Function #465:
+  Name      : NtSystemDebugControl
+  Address   : 0x7ff8cce454e0
+  Trampoline: 0x7ff8cce454f2
+  Hooked    : false
+  SSN       : 208
+------------------------------------------
+Function #466:
+  Name      : NtTerminateEnclave
+  Address   : 0x7ff8cce45500
+  Trampoline: 0x7ff8cce45512
+  Hooked    : false
+  SSN       : 209
+------------------------------------------
+Function #467:
+  Name      : NtTerminateJobObject
+  Address   : 0x7ff8cce45520
+  Trampoline: 0x7ff8cce45532
+  Hooked    : false
+  SSN       : 210
+------------------------------------------
+Function #468:
+  Name      : NtTestAlert
+  Address   : 0x7ff8cce45540
+  Trampoline: 0x7ff8cce45552
+  Hooked    : false
+  SSN       : 211
+------------------------------------------
+Function #469:
+  Name      : NtThawRegistry
+  Address   : 0x7ff8cce45560
+  Trampoline: 0x7ff8cce45572
+  Hooked    : false
+  SSN       : 212
+------------------------------------------
+Function #470:
+  Name      : NtThawTransactions
+  Address   : 0x7ff8cce45580
+  Trampoline: 0x7ff8cce45592
+  Hooked    : false
+  SSN       : 213
+------------------------------------------
+Function #471:
+  Name      : NtTraceControl
+  Address   : 0x7ff8cce455a0
+  Trampoline: 0x7ff8cce455b2
+  Hooked    : false
+  SSN       : 214
+------------------------------------------
+Function #472:
+  Name      : NtTranslateFilePath
+  Address   : 0x7ff8cce455c0
+  Trampoline: 0x7ff8cce455d2
+  Hooked    : false
+  SSN       : 215
+------------------------------------------
+Function #473:
+  Name      : NtUmsThreadYield
+  Address   : 0x7ff8cce455e0
+  Trampoline: 0x7ff8cce455f2
+  Hooked    : false
+  SSN       : 216
+------------------------------------------
+Function #474:
+  Name      : NtUnloadDriver
+  Address   : 0x7ff8cce45600
+  Trampoline: 0x7ff8cce45612
+  Hooked    : false
+  SSN       : 217
+------------------------------------------
+Function #475:
+  Name      : NtUnloadKey
+  Address   : 0x7ff8cce45620
+  Trampoline: 0x7ff8cce45632
+  Hooked    : false
+  SSN       : 218
+------------------------------------------
+Function #476:
+  Name      : NtUnloadKey2
+  Address   : 0x7ff8cce45640
+  Trampoline: 0x7ff8cce45652
+  Hooked    : false
+  SSN       : 219
+------------------------------------------
+Function #477:
+  Name      : NtUnloadKeyEx
+  Address   : 0x7ff8cce45660
+  Trampoline: 0x7ff8cce45672
+  Hooked    : false
+  SSN       : 220
+------------------------------------------
+Function #478:
+  Name      : NtUnlockFile
+  Address   : 0x7ff8cce45680
+  Trampoline: 0x7ff8cce45692
+  Hooked    : false
+  SSN       : 221
+------------------------------------------
+Function #479:
+  Name      : NtUnlockVirtualMemory
+  Address   : 0x7ff8cce456a0
+  Trampoline: 0x7ff8cce456b2
+  Hooked    : false
+  SSN       : 222
+------------------------------------------
+Function #480:
+  Name      : NtUnmapViewOfSectionEx
+  Address   : 0x7ff8cce456c0
+  Trampoline: 0x7ff8cce456d2
+  Hooked    : false
+  SSN       : 223
+------------------------------------------
+Function #481:
+  Name      : NtUnsubscribeWnfStateChange
+  Address   : 0x7ff8cce456e0
+  Trampoline: 0x7ff8cce456f2
+  Hooked    : false
+  SSN       : 224
+------------------------------------------
+Function #482:
+  Name      : NtUpdateWnfStateData
+  Address   : 0x7ff8cce45700
+  Trampoline: 0x7ff8cce45712
+  Hooked    : false
+  SSN       : 225
+------------------------------------------
+Function #483:
+  Name      : NtVdmControl
+  Address   : 0x7ff8cce45720
+  Trampoline: 0x7ff8cce45732
+  Hooked    : false
+  SSN       : 226
+------------------------------------------
+Function #484:
+  Name      : NtWaitForAlertByThreadId
+  Address   : 0x7ff8cce45740
+  Trampoline: 0x7ff8cce45752
+  Hooked    : false
+  SSN       : 227
+------------------------------------------
+Function #485:
+  Name      : NtWaitForDebugEvent
+  Address   : 0x7ff8cce45760
+  Trampoline: 0x7ff8cce45772
+  Hooked    : false
+  SSN       : 228
+------------------------------------------
+Function #486:
+  Name      : NtWaitForKeyedEvent
+  Address   : 0x7ff8cce45780
+  Trampoline: 0x7ff8cce45792
+  Hooked    : false
+  SSN       : 229
+------------------------------------------
+Function #487:
+  Name      : NtWaitForWorkViaWorkerFactory
+  Address   : 0x7ff8cce457a0
+  Trampoline: 0x7ff8cce457b2
+  Hooked    : false
+  SSN       : 230
+------------------------------------------
+Function #488:
+  Name      : NtWaitHighEventPair
+  Address   : 0x7ff8cce457c0
+  Trampoline: 0x7ff8cce457d2
+  Hooked    : false
+  SSN       : 231
+------------------------------------------
+Function #489:
+  Name      : NtWaitLowEventPair
+  Address   : 0x7ff8cce457e0
+  Trampoline: 0x7ff8cce457f2
+  Hooked    : false
+  SSN       : 232
+------------------------------------------
